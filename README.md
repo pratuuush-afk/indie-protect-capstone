@@ -8,6 +8,8 @@ assistance, and plain-language guidance in one bank-native experience.
 This is a frontend prototype. Purchases, payments, claims, document uploads, AI
 answers, and service bookings are simulated and do not contact a live insurer.
 
+Live prototype: https://indie-protect-capstone.vercel.app
+
 ## Prototype Highlights
 
 - Protection Score with personalised next actions
@@ -97,4 +99,3 @@ scenario.
 
 The presentation and its PDF export are in `output`. The written product case,
 LinkedIn copy, demo script, and deployment instructions are in the project root.
-

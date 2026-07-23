@@ -1,40 +1,32 @@
 # LinkedIn Post
 
-I have completed my Product Matters 6.0 Capstone Project: **INDIE Protect**.
+I have completed my Product Matters 6.0 capstone project, INDIE Protect.
 
-The challenge was to reimagine how customers discover, purchase, and manage
-general insurance across the complete lifecycle.
+The brief asked us to rethink the full insurance journey. While working on it, I
+kept returning to one problem: buying a policy is often easier than understanding
+or using it.
 
-My solution is a bank-native protection cockpit for INDIE by IndusInd Bank. It
-brings policy discovery, transparent comparison, purchase, a cross-insurer
-policy vault, renewals, guided claims, assistance services, and plain-language
-support into one connected experience.
+INDIE Protect gives customers one place to compare cover, store every policy,
+renew on time, file a claim, and see who owns the next step. It begins with motor
+and health, where renewal and claim moments are frequent and easy to measure.
 
-The main product insight was simple: customers do not need another policy store.
-They need to understand whether they are protected and know what to do next.
+The home screen shows a simple protection score and the action that needs
+attention now. Comparison keeps exclusions visible beside price. The claim flow
+asks for only the evidence needed, shows the current owner, and explains policy
+wording in plain language.
 
-INDIE Protect therefore centres the experience on:
+I also treated consent as a product feature. Bank context can help identify a
+real need, but it should never affect underwriting or the outcome of a claim.
 
-- A Protection Score that turns coverage gaps into clear actions
-- Side-by-side comparison with inclusions and exclusions visible before purchase
-- Guided claims with evidence prompts, named ownership, and status tracking
-- A unified policy vault for IndusInd and external policies
-- Consent-based recommendations and removable data access
+The metric I would lead with is Monthly Protected Actions. It counts useful work
+such as reviewing a gap, importing a policy, renewing cover, completing a claim
+step, or requesting assistance.
 
-For the MVP, I prioritised motor and health because they offer strong renewal,
-claims, and bank-context use cases. The proposed North Star is Monthly Protected
-Customers: people who complete a meaningful protection action, not merely open
-the app.
+Thank you to E Cell IIT Guwahati, the Product Matters 6.0 team, and IndusInd
+General Insurance for a brief that brought strategy, prioritisation, design, and
+execution into one project.
 
-The prototype is intentionally realistic but simulated. It helped me test the
-full journey from a renewal prompt to purchase, policy management, claim filing,
-and claim support.
-
-Thank you to **E-Cell IIT Guwahati**, the Product Matters 6.0 team, and
-**IndusInd General Insurance** for the opportunity to apply product strategy,
-research, prioritisation, metrics, and prototyping to a real customer problem.
-
-Prototype: [ADD PUBLIC PROTOTYPE URL]
+Prototype: https://indie-protect-capstone.vercel.app
 
 #ProductManagement #ProductDesign #InsurTech #DigitalInsurance
 #CustomerExperience #ProductStrategy #ProductMatters #IITGuwahati
@@ -42,7 +34,6 @@ Prototype: [ADD PUBLIC PROTOTYPE URL]
 ## Publishing Note
 
 Attach one strong visual, preferably `output/qa/home-mobile.png` or the title
-slide from the deck. Replace the prototype placeholder with the public URL,
-publish from the account used for the course, and copy the final LinkedIn post
-URL into the submission form.
-
+slide from the deck. The prototype link is already included. Publish from the
+account used for the course and copy the final LinkedIn post URL into the
+submission form.

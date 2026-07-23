@@ -5,9 +5,9 @@ mandatory LinkedIn post. A demo video is optional.
 
 ## Files To Submit
 
-- `output/INDIE_Protect_Capstone_Deck.pptx`
-- `output/INDIE_Protect_Capstone_Deck.pdf`
-- Public prototype URL from Vercel
+- `output/INDIE_Protect_Capstone_Deck_Final.pptx`
+- `output/INDIE_Protect_Capstone_Deck_Final.pdf`
+- https://indie-protect-capstone.vercel.app
 - Public LinkedIn post URL
 - Optional demo video URL
 
@@ -77,15 +77,16 @@ deployment from the Vercel project dashboard and use its assigned production
 domain. A deleted or superseded deployment URL will not recover by rebuilding
 locally.
 
-## Add The Final Link
+## Final Prototype Link
 
-After deployment:
+Use this address in every submission field:
 
-1. Replace `[ADD PUBLIC PROTOTYPE URL]` in `LINKEDIN_POST.md`.
-2. Put the same URL in the prototype field of the capstone submission form.
-3. Add the URL to the final slide before exporting the final upload copy if the
-   form expects the deck itself to contain the link.
-4. Test the URL in a private browser window and on a phone.
+```text
+https://indie-protect-capstone.vercel.app
+```
+
+The address is included in the final slide and LinkedIn copy. Test it in a
+private browser window and on a phone before submission.
 
 ## LinkedIn Submission
 
