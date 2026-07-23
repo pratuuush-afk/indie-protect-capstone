@@ -1,0 +1,673 @@
+{"kind":"deck","id":"pr/mz6izq","name":"Deck"}
+{"kind":"layout","layoutId":"8c3ab30f-03c4-4349-bd45-b042c5e5e51d","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"f0f45f11-d8ab-4c92-8ca6-8b29d707422f","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/xzu6u0","slide":1,"title":"PRODUCT MATTERS 6.0  |  CAPSTONE","textShapes":6}
+{"kind":"shape","id":"sh/et03ads7","slide":1,"bbox":[0,0,546,720]}
+{"kind":"shape","id":"sh/gvilc3ad","slide":1,"bbox":[500,0,260,720]}
+{"kind":"textbox","id":"sh/nyt47i9o","slide":1,"text":"PRODUCT MATTERS 6.0  |  CAPSTONE","textPreview":"PRODUCT MATTERS 6.0  |  CAPSTONE","textChars":32,"textLines":1,"bbox":[66,58,440,26]}
+{"kind":"textbox","id":"sh/2xk3edsj","slide":1,"text":"INDIE\nProtect","textPreview":"INDIE | Protect","textChars":13,"textLines":2,"bbox":[66,126,430,150]}
+{"kind":"textbox","id":"sh/p0bm9sru","slide":1,"text":"A bank-native protection cockpit for the complete insurance lifecycle","textPreview":"A bank-native protection cockpit for the complete insurance lifecycle","textChars":69,"textLines":1,"bbox":[66,302,420,96]}
+{"kind":"textbox","id":"sh/oz2lgna9","slide":1,"text":"Discover clearly. Manage every policy. Act with confidence when something goes wrong.","textPreview":"Discover clearly. Manage every policy. Act with confidence when something goes wrong.","textChars":85,"textLines":1,"bbox":[66,418,410,88]}
+{"kind":"shape","id":"sh/j2p4vetk","slide":1,"bbox":[66,560,360,1]}
+{"kind":"textbox","id":"sh/i1g32tsz","slide":1,"text":"IndusInd General Insurance  x  E-Cell IIT Guwahati","textPreview":"IndusInd General Insurance  x  E-Cell IIT Guwahati","textChars":50,"textLines":1,"bbox":[66,580,430,28]}
+{"kind":"textbox","id":"sh/cr21g7uh","slide":1,"text":"Capstone submission  |  July 2026","textPreview":"Capstone submission  |  July 2026","textChars":33,"textLines":1,"bbox":[66,616,360,24]}
+{"kind":"image","id":"im/cj690nat","slide":1,"name":"","geometry":"rect","alt":"protection-hero.png","bbox":[546,0,734,720]}
+{"kind":"notes","id":"nt/xzu6u0","slide":1,"text":""}
+{"kind":"slide","id":"sl/q9hrld","slide":2,"title":"INDIE  PROTECT","textShapes":28}
+{"kind":"shape","id":"sh/ux0nmdon","slide":2,"bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/h0r6hs7y","slide":2,"text":"INDIE  PROTECT","textPreview":"INDIE  PROTECT","textChars":14,"textLines":1,"bbox":[64,28,220,24]}
+{"kind":"textbox","id":"sh/wzi5on6t","slide":2,"text":"PROBLEM","textPreview":"PROBLEM","textChars":7,"textLines":1,"bbox":[968,30,220,20]}
+{"kind":"textbox","id":"sh/j29ojip4","slide":2,"text":"Insurance fails when customers need clarity most","textPreview":"Insurance fails when customers need clarity most","textChars":48,"textLines":1,"bbox":[64,72,1080,52]}
+{"kind":"textbox","id":"sh/i10nqxoj","slide":2,"text":"Low penetration is not only a distribution problem; fragmented discovery, policy language, claims, and renewals erode trust across the lifecycle.","textPreview":"Low penetration is not only a distribution problem; fragmented discovery, policy language, claims, and renewals erode trust across the li...","textChars":145,"textLines":1,"bbox":[64,126,1080,44]}
+{"kind":"textbox","id":"sh/54b6ls7a","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1172,674,44,22]}
+{"kind":"shape","id":"sh/4325sn6p","slide":2,"bbox":[64,200,350,112]}
+{"kind":"shape","id":"sh/z6p47yp0","slide":2,"bbox":[64,200,8,112]}
+{"kind":"textbox","id":"sh/y5gnetof","slide":2,"text":"1.0%","textPreview":"1.0%","textChars":4,"textLines":1,"bbox":[92,216,132,42]}
+{"kind":"textbox","id":"sh/c3ulcbi5","slide":2,"text":"Non-life insurance penetration","textPreview":"Non-life insurance penetration","textChars":30,"textLines":1,"bbox":[222,216,172,38]}
+{"kind":"textbox","id":"sh/d43m5gzq","slide":2,"text":"India, FY 2023-24","textPreview":"India, FY 2023-24","textChars":17,"textLines":1,"bbox":[222,262,172,25]}
+{"kind":"shape","id":"sh/q1c3a10z","slide":2,"bbox":[64,338,350,112]}
+{"kind":"shape","id":"sh/r2l436hk","slide":2,"bbox":[64,338,8,112]}
+{"kind":"textbox","id":"sh/07e5gvi1","slide":2,"text":"USD 25","textPreview":"USD 25","textChars":6,"textLines":1,"bbox":[92,354,132,42]}
+{"kind":"textbox","id":"sh/l8nm9gzm","slide":2,"text":"Non-life insurance density","textPreview":"Non-life insurance density","textChars":26,"textLines":1,"bbox":[222,354,172,38]}
+{"kind":"textbox","id":"sh/e5cnel0b","slide":2,"text":"Per person, FY 2023-24","textPreview":"Per person, FY 2023-24","textChars":22,"textLines":1,"bbox":[222,400,172,25]}
+{"kind":"shape","id":"sh/z6547qhw","slide":2,"bbox":[64,476,350,112]}
+{"kind":"shape","id":"sh/gbal4rix","slide":2,"bbox":[64,476,8,112]}
+{"kind":"textbox","id":"sh/hcjmxwzi","slide":2,"text":"93%+","textPreview":"93%+","textChars":4,"textLines":1,"bbox":[92,492,132,42]}
+{"kind":"textbox","id":"sh/xgralo7u","slide":2,"text":"IndusInd digital transaction mix","textPreview":"IndusInd digital transaction mix","textChars":32,"textLines":1,"bbox":[222,492,172,38]}
+{"kind":"textbox","id":"sh/wvitcj6p","slide":2,"text":"A ready digital distribution base","textPreview":"A ready digital distribution base","textChars":33,"textLines":1,"bbox":[222,538,172,25]}
+{"kind":"textbox","id":"sh/vu9sjep4","slide":2,"text":"The customer’s real journey","textPreview":"The customer’s real journey","textChars":27,"textLines":1,"bbox":[476,194,690,30]}
+{"kind":"shape","id":"sh/at0batoj","slide":2,"bbox":[476,244,14,14]}
+{"kind":"shape","id":"sh/5kbap876","slide":2,"bbox":[482,258,2,72]}
+{"kind":"textbox","id":"sh/kj2tg36l","slide":2,"text":"DISCOVER","textPreview":"DISCOVER","textChars":8,"textLines":1,"bbox":[510,236,100,20]}
+{"kind":"textbox","id":"sh/jitsnyp0","slide":2,"text":"Too many options, too little context","textPreview":"Too many options, too little context","textChars":36,"textLines":1,"bbox":[618,235,525,24]}
+{"kind":"textbox","id":"sh/ihkbetof","slide":2,"text":"Comparison optimises price, not protection fit.","textPreview":"Comparison optimises price, not protection fit.","textChars":47,"textLines":1,"bbox":[618,264,525,42]}
+{"kind":"shape","id":"sh/tovut8n2","slide":2,"bbox":[476,338,14,14]}
+{"kind":"shape","id":"sh/sn2tk36h","slide":2,"bbox":[482,352,2,72]}
+{"kind":"textbox","id":"sh/qtw7e54z","slide":2,"text":"MANAGE","textPreview":"MANAGE","textChars":6,"textLines":1,"bbox":[510,330,100,20]}
+{"kind":"textbox","id":"sh/ru58na5k","slide":2,"text":"Policies live across providers and inboxes","textPreview":"Policies live across providers and inboxes","textChars":42,"textLines":1,"bbox":[618,329,525,24]}
+{"kind":"textbox","id":"sh/cvepgfm5","slide":2,"text":"Coverage, exclusions, and renewals stay invisible.","textPreview":"Coverage, exclusions, and renewals stay invisible.","textChars":50,"textLines":1,"bbox":[618,358,525,42]}
+{"kind":"shape","id":"sh/dwnqpknq","slide":2,"bbox":[476,432,14,14]}
+{"kind":"shape","id":"sh/yxw7ip4b","slide":2,"bbox":[482,446,2,72]}
+{"kind":"textbox","id":"sh/zyp8ra5w","slide":2,"text":"CLAIM","textPreview":"CLAIM","textChars":5,"textLines":1,"bbox":[510,424,100,20]}
+{"kind":"textbox","id":"sh/0zy9kfmh","slide":2,"text":"The stressful moment becomes a document hunt","textPreview":"The stressful moment becomes a document hunt","textChars":44,"textLines":1,"bbox":[618,423,525,24]}
+{"kind":"textbox","id":"sh/l07qtknm","slide":2,"text":"Customers cannot see ownership or the next step.","textPreview":"Customers cannot see ownership or the next step.","textChars":48,"textLines":1,"bbox":[618,452,525,42]}
+{"kind":"shape","id":"sh/m1grmp47","slide":2,"bbox":[476,526,14,14]}
+{"kind":"textbox","id":"sh/nmp8vu5s","slide":2,"text":"RENEW","textPreview":"RENEW","textChars":5,"textLines":1,"bbox":[510,518,100,20]}
+{"kind":"textbox","id":"sh/vil8fudw","slide":2,"text":"Reminders arrive without advice","textPreview":"Reminders arrive without advice","textChars":31,"textLines":1,"bbox":[618,517,525,24]}
+{"kind":"textbox","id":"sh/uhc76pwb","slide":2,"text":"Renewal is treated as a payment, not a protection review.","textPreview":"Renewal is treated as a payment, not a protection review.","textChars":57,"textLines":1,"bbox":[618,546,525,42]}
+{"kind":"textbox","id":"sh/hknqh4v2","slide":2,"text":"Sources: DFS Annual Report 2024-25; IndusInd Bank Annual Report 2024-25.","textPreview":"Sources: DFS Annual Report 2024-25; IndusInd Bank Annual Report 2024-25.","textChars":72,"textLines":1,"bbox":[64,673,1030,22]}
+{"kind":"notes","id":"nt/q9hrld","slide":2,"text":""}
+{"kind":"slide","id":"sl/rydasl","slide":3,"title":"INDIE  PROTECT","textShapes":18}
+{"kind":"shape","id":"sh/x8zqp87q","slide":3,"bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/a587ed8z","slide":3,"text":"INDIE  PROTECT","textPreview":"INDIE  PROTECT","textChars":14,"textLines":1,"bbox":[64,28,220,24]}
+{"kind":"textbox","id":"sh/b6h8nypk","slide":3,"text":"PERSONA","textPreview":"PERSONA","textChars":7,"textLines":1,"bbox":[968,30,220,20]}
+{"kind":"textbox","id":"sh/o36pc3q9","slide":3,"text":"Ananya needs one protection view, not another policy store","textPreview":"Ananya needs one protection view, not another policy store","textChars":58,"textLines":1,"bbox":[64,72,1080,52]}
+{"kind":"textbox","id":"sh/94zql87u","slide":3,"text":"Primary persona: digitally confident urban banking customers who own multiple policies but lack a unified way to understand and use them.","textPreview":"Primary persona: digitally confident urban banking customers who own multiple policies but lack a unified way to understand and use them.","textChars":137,"textLines":1,"bbox":[64,126,1080,44]}
+{"kind":"textbox","id":"sh/m1o7at83","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1172,674,44,22]}
+{"kind":"shape","id":"sh/8za9on6d","slide":3,"bbox":[64,186,628,450]}
+{"kind":"shape","id":"sh/t0jqxs7y","slide":3,"bbox":[90,210,142,28]}
+{"kind":"textbox","id":"sh/tkrmd4be","slide":3,"text":"PRIMARY PERSONA","textPreview":"PRIMARY PERSONA","textChars":15,"textLines":1,"bbox":[98,215,126,18]}
+{"kind":"textbox","id":"sh/sji54jut","slide":3,"text":"Ananya Rao, 31","textPreview":"Ananya Rao, 31","textChars":14,"textLines":1,"bbox":[90,252,330,34]}
+{"kind":"textbox","id":"sh/7yp4bet8","slide":3,"text":"Product manager  |  Bengaluru  |  INDIE salary customer","textPreview":"Product manager  |  Bengaluru  |  INDIE salary customer","textChars":55,"textLines":1,"bbox":[90,292,520,24]}
+{"kind":"textbox","id":"sh/6xgn29c3","slide":3,"text":"OWNS","textPreview":"OWNS","textChars":4,"textLines":1,"bbox":[90,344,110,20]}
+{"kind":"textbox","id":"sh/5w7m94bi","slide":3,"text":"Car policy + family health cover","textPreview":"Car policy + family health cover","textChars":32,"textLines":1,"bbox":[202,342,430,26]}
+{"kind":"shape","id":"sh/kvy50zux","slide":3,"bbox":[90,378,530,1]}
+{"kind":"textbox","id":"sh/jup47utc","slide":3,"text":"BEHAVIOUR","textPreview":"BEHAVIOUR","textChars":9,"textLines":1,"bbox":[90,398,110,20]}
+{"kind":"textbox","id":"sh/itgnypcr","slide":3,"text":"Mobile-first, compares before buying","textPreview":"Mobile-first, compares before buying","textChars":36,"textLines":1,"bbox":[202,396,430,26]}
+{"kind":"shape","id":"sh/psb6lobm","slide":3,"bbox":[90,432,530,1]}
+{"kind":"textbox","id":"sh/or25c3u1","slide":3,"text":"TRIGGER","textPreview":"TRIGGER","textChars":7,"textLines":1,"bbox":[90,452,110,20]}
+{"kind":"textbox","id":"sh/ovapo7id","slide":3,"text":"Motor renewal due; parents ageing","textPreview":"Motor renewal due; parents ageing","textChars":33,"textLines":1,"bbox":[202,450,430,26]}
+{"kind":"shape","id":"sh/9wjqhcjy","slide":3,"bbox":[90,486,530,1]}
+{"kind":"textbox","id":"sh/mt87mxk7","slide":3,"text":"FRUSTRATION","textPreview":"FRUSTRATION","textChars":11,"textLines":1,"bbox":[90,506,110,20]}
+{"kind":"textbox","id":"sh/nuh8f21s","slide":3,"text":"Does not know what is covered until a claim","textPreview":"Does not know what is covered until a claim","textChars":43,"textLines":1,"bbox":[202,504,430,26]}
+{"kind":"shape","id":"sh/0rqpkn21","slide":3,"bbox":[90,570,530,1]}
+{"kind":"textbox","id":"sh/1szqdsjm","slide":3,"text":"JOB TO BE DONE","textPreview":"JOB TO BE DONE","textChars":14,"textLines":1,"bbox":[90,588,130,20]}
+{"kind":"textbox","id":"sh/e587ixkb","slide":3,"text":"“Help me understand my protection and take the right action before, during, and after an incident.”","textPreview":"“Help me understand my protection and take the right action before, during, and after an incident.”","textChars":99,"textLines":1,"bbox":[224,582,410,52]}
+{"kind":"image","id":"im/25kzipwz","slide":3,"name":"","geometry":"roundRect","alt":"protection-hero.png","bbox":[750,186,466,430]}
+{"kind":"notes","id":"nt/rydasl","slide":3,"text":""}
+{"kind":"slide","id":"sl/u23q54","slide":4,"title":"INDIE  PROTECT","textShapes":30}
+{"kind":"shape","id":"sh/k369o3yh","slide":4,"bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/j2x8vyhc","slide":4,"text":"INDIE  PROTECT","textPreview":"INDIE  PROTECT","textChars":14,"textLines":1,"bbox":[64,28,220,24]}
+{"kind":"textbox","id":"sh/i1ormt0r","slide":4,"text":"OPPORTUNITY","textPreview":"OPPORTUNITY","textChars":11,"textLines":1,"bbox":[968,30,220,20]}
+{"kind":"textbox","id":"sh/tsza18ze","slide":4,"text":"Start with 15M INDIE retail accounts and earn the right to expand","textPreview":"Start with 15M INDIE retail accounts and earn the right to expand","textChars":65,"textLines":1,"bbox":[64,72,1080,52]}
+{"kind":"textbox","id":"sh/srq9s3yt","slide":4,"text":"A focused motor + health wedge uses existing customer trust and digital reach, then expands into a unified protection ecosystem.","textPreview":"A focused motor + health wedge uses existing customer trust and digital reach, then expands into a unified protection ecosystem.","textChars":128,"textLines":1,"bbox":[64,126,1080,44]}
+{"kind":"textbox","id":"sh/7qhszyh8","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1172,674,44,22]}
+{"kind":"textbox","id":"sh/6porqdgn","slide":4,"text":"Reach funnel","textPreview":"Reach funnel","textChars":12,"textLines":1,"bbox":[64,188,320,28]}
+{"kind":"shape","id":"sh/1wza5sza","slide":4,"bbox":[64,236,560,82]}
+{"kind":"textbox","id":"sh/gvq9wnyp","slide":4,"text":"TAM","textPreview":"TAM","textChars":3,"textLines":1,"bbox":[82,250,54,18]}
+{"kind":"textbox","id":"sh/2h0ru14b","slide":4,"text":"41M+","textPreview":"41M+","textChars":4,"textLines":1,"bbox":[144,249,105,36]}
+{"kind":"textbox","id":"sh/3i9sn65g","slide":4,"text":"IndusInd customers","textPreview":"IndusInd customers","textChars":18,"textLines":1,"bbox":[254,254,350,44]}
+{"kind":"shape","id":"sh/oji9wbm1","slide":4,"bbox":[104,338,480,82]}
+{"kind":"textbox","id":"sh/pkrapwnm","slide":4,"text":"SAM","textPreview":"SAM","textChars":3,"textLines":1,"bbox":[122,352,54,18]}
+{"kind":"textbox","id":"sh/al0by147","slide":4,"text":"15M","textPreview":"15M","textChars":3,"textLines":1,"bbox":[184,351,105,36]}
+{"kind":"textbox","id":"sh/bm9sr65s","slide":4,"text":"Retail accounts targeted for INDIE migration","textPreview":"Retail accounts targeted for INDIE migration","textChars":44,"textLines":1,"bbox":[294,356,270,44]}
+{"kind":"shape","id":"sh/c7it0bmd","slide":4,"bbox":[144,440,400,82]}
+{"kind":"textbox","id":"sh/x8ratgny","slide":4,"text":"SOM","textPreview":"SOM","textChars":3,"textLines":1,"bbox":[162,454,54,18]}
+{"kind":"textbox","id":"sh/6pwrmh43","slide":4,"text":"1.5M","textPreview":"1.5M","textChars":4,"textLines":1,"bbox":[224,453,105,36]}
+{"kind":"textbox","id":"sh/rqpsfm58","slide":4,"text":"Three-year insured-customer ambition","textPreview":"Three-year insured-customer ambition","textChars":36,"textLines":1,"bbox":[334,458,190,44]}
+{"kind":"textbox","id":"sh/vulonil0","slide":4,"text":"Assumption: SOM = 10% of SAM in three years.","textPreview":"Assumption: SOM = 10% of SAM in three years.","textChars":44,"textLines":1,"bbox":[144,540,410,24]}
+{"kind":"shape","id":"sh/utc7udkv","slide":4,"bbox":[700,194,516,370]}
+{"kind":"shape","id":"sh/hw36ps36","slide":4,"bbox":[728,220,176,28]}
+{"kind":"textbox","id":"sh/wvupwn2l","slide":4,"text":"WHY MOTOR + HEALTH","textPreview":"WHY MOTOR + HEALTH","textChars":18,"textLines":1,"bbox":[736,225,160,18]}
+{"kind":"shape","id":"sh/7q1ojyl4","slide":4,"bbox":[728,270,30,30]}
+{"kind":"textbox","id":"sh/mps7qtkj","slide":4,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[728,276,30,18]}
+{"kind":"textbox","id":"sh/9s36l83a","slide":4,"text":"High-frequency trigger","textPreview":"High-frequency trigger","textChars":22,"textLines":1,"bbox":[774,268,390,23]}
+{"kind":"textbox","id":"sh/8rups32p","slide":4,"text":"Motor renewal creates a predictable annual moment.","textPreview":"Motor renewal creates a predictable annual moment.","textChars":50,"textLines":1,"bbox":[774,295,390,35]}
+{"kind":"shape","id":"sh/rm58v2l8","slide":4,"bbox":[728,346,30,30]}
+{"kind":"textbox","id":"sh/6lw72xk3","slide":4,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[728,352,30,18]}
+{"kind":"textbox","id":"sh/ov6d0ve9","slide":4,"text":"High-stakes gap","textPreview":"High-stakes gap","textChars":15,"textLines":1,"bbox":[774,344,390,23]}
+{"kind":"textbox","id":"sh/pgfu90fu","slide":4,"text":"Health underinsurance threatens household savings.","textPreview":"Health underinsurance threatens household savings.","textChars":50,"textLines":1,"bbox":[774,371,390,35]}
+{"kind":"shape","id":"sh/2t4vylw3","slide":4,"bbox":[728,422,30,30]}
+{"kind":"textbox","id":"sh/3uxc7qxo","slide":4,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[728,428,30,18]}
+{"kind":"textbox","id":"sh/cj6d4fe5","slide":4,"text":"Shared lifecycle","textPreview":"Shared lifecycle","textChars":16,"textLines":1,"bbox":[774,420,390,23]}
+{"kind":"textbox","id":"sh/dkfedkfq","slide":4,"text":"Both need discovery, documents, claims, and renewals.","textPreview":"Both need discovery, documents, claims, and renewals.","textChars":53,"textLines":1,"bbox":[774,447,390,35]}
+{"kind":"shape","id":"sh/qhov25wz","slide":4,"bbox":[728,502,460,1]}
+{"kind":"textbox","id":"sh/bixwbaxk","slide":4,"text":"Illustrative premium throughput at SOM","textPreview":"Illustrative premium throughput at SOM","textChars":38,"textLines":1,"bbox":[728,518,260,20]}
+{"kind":"textbox","id":"sh/0nqd8feh","slide":4,"text":"Rs. 1,200 crore / year","textPreview":"Rs. 1,200 crore / year","textChars":22,"textLines":1,"bbox":[970,512,220,30]}
+{"kind":"textbox","id":"sh/lozehkfm","slide":4,"text":"1.5M customers x assumed Rs. 8,000 annual premium. This is premium throughput, not revenue.","textPreview":"1.5M customers x assumed Rs. 8,000 annual premium. This is premium throughput, not revenue.","textChars":91,"textLines":1,"bbox":[728,548,460,40]}
+{"kind":"textbox","id":"sh/lwrehkj2","slide":4,"text":"Sources: IndusInd Bank Annual Report 2024-25; INDIE press release, 5 Jun 2025. SOM and premium are assumptions.","textPreview":"Sources: IndusInd Bank Annual Report 2024-25; INDIE press release, 5 Jun 2025. SOM and premium are assumptions.","textChars":111,"textLines":1,"bbox":[64,673,1030,22]}
+{"kind":"notes","id":"nt/u23q54","slide":4,"text":""}
+{"kind":"slide","id":"sl/np8f75","slide":5,"title":"INDIE  PROTECT","textShapes":44}
+{"kind":"shape","id":"sh/2pkjips3","slide":5,"bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/psb2d4ru","slide":5,"text":"INDIE  PROTECT","textPreview":"INDIE  PROTECT","textChars":14,"textLines":1,"bbox":[64,28,220,24]}
+{"kind":"textbox","id":"sh/or21kza9","slide":5,"text":"COMPETITION","textPreview":"COMPETITION","textChars":11,"textLines":1,"bbox":[968,30,220,20]}
+{"kind":"textbox","id":"sh/f29k7ats","slide":5,"text":"Competitors solve transactions; INDIE Protect connects the lifecycle","textPreview":"Competitors solve transactions; INDIE Protect connects the lifecycle","textChars":68,"textLines":1,"bbox":[64,72,1080,52]}
+{"kind":"textbox","id":"sh/e10je5s7","slide":5,"text":"The whitespace is a consent-led, bank-native experience that unifies external policies, proactive insights, claims, and value-added services.","textPreview":"The whitespace is a consent-led, bank-native experience that unifies external policies, proactive insights, claims, and value-added servi...","textChars":141,"textLines":1,"bbox":[64,126,1080,44]}
+{"kind":"textbox","id":"sh/1ob29kbi","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1172,674,44,22]}
+{"kind":"shape","id":"sh/g3i1gfad","slide":5,"bbox":[64,198,210,66]}
+{"kind":"textbox","id":"sh/ry903atg","slide":5,"text":"PLAYER","textPreview":"PLAYER","textChars":6,"textLines":1,"bbox":[74,213,190,38]}
+{"kind":"shape","id":"sh/6x0ja5sv","slide":5,"bbox":[274,198,160,66]}
+{"kind":"textbox","id":"sh/wfah8vmt","slide":5,"text":"COMPARE /\nBUY","textPreview":"COMPARE / | BUY","textChars":13,"textLines":2,"bbox":[284,213,140,38]}
+{"kind":"shape","id":"sh/xgjyh0ne","slide":5,"bbox":[434,198,160,66]}
+{"kind":"textbox","id":"sh/atsf6l43","slide":5,"text":"UNIFIED\nVAULT","textPreview":"UNIFIED | VAULT","textChars":13,"textLines":2,"bbox":[444,213,140,38]}
+{"kind":"shape","id":"sh/bu1gfq58","slide":5,"bbox":[594,198,180,66]}
+{"kind":"textbox","id":"sh/orqx4bmx","slide":5,"text":"PROACTIVE\nBANK INSIGHT","textPreview":"PROACTIVE | BANK INSIGHT","textChars":22,"textLines":2,"bbox":[604,213,160,38]}
+{"kind":"shape","id":"sh/9szydgni","slide":5,"bbox":[774,198,160,66]}
+{"kind":"textbox","id":"sh/mp8f2l4r","slide":5,"text":"CLAIMS /\nRENEWAL","textPreview":"CLAIMS / | RENEWAL","textChars":16,"textLines":2,"bbox":[784,213,140,38]}
+{"kind":"shape","id":"sh/nqhgb65c","slide":5,"bbox":[934,198,160,66]}
+{"kind":"textbox","id":"sh/8nuhgfm1","slide":5,"text":"SERVICES","textPreview":"SERVICES","textChars":8,"textLines":1,"bbox":[944,213,140,38]}
+{"kind":"shape","id":"sh/to3ypk3m","slide":5,"bbox":[64,264,210,66]}
+{"kind":"textbox","id":"sh/h4zy90vq","slide":5,"text":"Policybazaar","textPreview":"Policybazaar","textChars":12,"textLines":1,"bbox":[74,285,190,24]}
+{"kind":"shape","id":"sh/g3qx0fe5","slide":5,"bbox":[274,264,160,66]}
+{"kind":"textbox","id":"sh/f2hg7adk","slide":5,"text":"Strong","textPreview":"Strong","textChars":6,"textLines":1,"bbox":[284,285,140,24]}
+{"kind":"shape","id":"sh/u18fy5wf","slide":5,"bbox":[434,264,160,66]}
+{"kind":"textbox","id":"sh/t0zy50vu","slide":5,"text":"Partial","textPreview":"Partial","textChars":7,"textLines":1,"bbox":[444,285,140,24]}
+{"kind":"shape","id":"sh/sfqxwve9","slide":5,"bbox":[594,264,180,66]}
+{"kind":"textbox","id":"sh/7exg3qdo","slide":5,"text":"-","textPreview":"-","textChars":1,"textLines":1,"bbox":[604,285,160,24]}
+{"kind":"shape","id":"sh/6dofulw3","slide":5,"bbox":[774,264,160,66]}
+{"kind":"textbox","id":"sh/5cfy1gfi","slide":5,"text":"Partial","textPreview":"Partial","textChars":7,"textLines":1,"bbox":[784,285,140,24]}
+{"kind":"shape","id":"sh/kb6xsvex","slide":5,"bbox":[934,264,160,66]}
+{"kind":"textbox","id":"sh/ah4v2hcv","slide":5,"text":"-","textPreview":"-","textChars":1,"textLines":1,"bbox":[944,285,140,24]}
+{"kind":"shape","id":"sh/vidwvmtg","slide":5,"bbox":[64,330,210,66]}
+{"kind":"textbox","id":"sh/wjmd4ru1","slide":5,"text":"ACKO","textPreview":"ACKO","textChars":4,"textLines":1,"bbox":[74,351,190,24]}
+{"kind":"shape","id":"sh/xkvexwbm","slide":5,"bbox":[274,330,160,66]}
+{"kind":"textbox","id":"sh/mdkvyhcz","slide":5,"text":"Own / partners","textPreview":"Own / partners","textChars":14,"textLines":1,"bbox":[284,351,140,24]}
+{"kind":"shape","id":"sh/netcrmdk","slide":5,"bbox":[434,330,160,66]}
+{"kind":"textbox","id":"sh/8f2d0rup","slide":5,"text":"Partial","textPreview":"Partial","textChars":7,"textLines":1,"bbox":[444,351,140,24]}
+{"kind":"shape","id":"sh/9gvutwba","slide":5,"bbox":[594,330,180,66]}
+{"kind":"textbox","id":"sh/ypkvuxcn","slide":5,"text":"-","textPreview":"-","textChars":1,"textLines":1,"bbox":[604,351,160,24]}
+{"kind":"shape","id":"sh/zatcn2d8","slide":5,"bbox":[774,330,160,66]}
+{"kind":"textbox","id":"sh/r2dszix4","slide":5,"text":"Strong","textPreview":"Strong","textChars":6,"textLines":1,"bbox":[784,351,140,24]}
+{"kind":"shape","id":"sh/q1kr6dgj","slide":5,"bbox":[934,330,160,66]}
+{"kind":"textbox","id":"sh/d4va18fa","slide":5,"text":"Strong","textPreview":"Strong","textChars":6,"textLines":1,"bbox":[944,351,140,24]}
+{"kind":"shape","id":"sh/c3m98nyp","slide":5,"bbox":[64,396,210,66]}
+{"kind":"textbox","id":"sh/3ytsvyxs","slide":5,"text":"Digit","textPreview":"Digit","textChars":5,"textLines":1,"bbox":[74,417,190,24]}
+{"kind":"shape","id":"sh/ixkr2tgn","slide":5,"bbox":[274,396,160,66]}
+{"kind":"textbox","id":"sh/50bax8fy","slide":5,"text":"Own products","textPreview":"Own products","textChars":12,"textLines":1,"bbox":[284,417,140,24]}
+{"kind":"shape","id":"sh/4z2943yd","slide":5,"bbox":[434,396,160,66]}
+{"kind":"textbox","id":"sh/vat8ryxw","slide":5,"text":"-","textPreview":"-","textChars":1,"textLines":1,"bbox":[444,417,140,24]}
+{"kind":"shape","id":"sh/u90rytgb","slide":5,"bbox":[594,396,180,66]}
+{"kind":"textbox","id":"sh/k3excvax","slide":5,"text":"-","textPreview":"-","textChars":1,"textLines":1,"bbox":[604,417,160,24]}
+{"kind":"shape","id":"sh/l4nyl0ri","slide":5,"bbox":[774,396,160,66]}
+{"kind":"textbox","id":"sh/y1wfalsr","slide":5,"text":"Strong","textPreview":"Strong","textChars":6,"textLines":1,"bbox":[784,417,140,24]}
+{"kind":"shape","id":"sh/z25gjq9c","slide":5,"bbox":[934,396,160,66]}
+{"kind":"textbox","id":"sh/87yxgfat","slide":5,"text":"Partial","textPreview":"Partial","textChars":7,"textLines":1,"bbox":[944,417,140,24]}
+{"kind":"shape","id":"sh/9s7ypkre","slide":5,"bbox":[64,462,210,66]}
+{"kind":"textbox","id":"sh/m5gfe5s3","slide":5,"text":"IndusInd today","textPreview":"IndusInd today","textChars":14,"textLines":1,"bbox":[74,483,190,24]}
+{"kind":"shape","id":"sh/76pgna9o","slide":5,"bbox":[274,462,160,66]}
+{"kind":"textbox","id":"sh/obux4bap","slide":5,"text":"Own products","textPreview":"Own products","textChars":12,"textLines":1,"bbox":[284,483,140,24]}
+{"kind":"shape","id":"sh/pw3edgra","slide":5,"bbox":[434,462,160,66]}
+{"kind":"textbox","id":"sh/psvehc3y","slide":5,"text":"Own only","textPreview":"Own only","textChars":8,"textLines":1,"bbox":[444,483,140,24]}
+{"kind":"shape","id":"sh/4rmd872d","slide":5,"bbox":[594,462,180,66]}
+{"kind":"textbox","id":"sh/3qdcf2l8","slide":5,"text":"-","textPreview":"-","textChars":1,"textLines":1,"bbox":[604,483,160,24]}
+{"kind":"shape","id":"sh/i54v6xkn","slide":5,"bbox":[774,462,160,66]}
+{"kind":"textbox","id":"sh/dwfelc3a","slide":5,"text":"Strong","textPreview":"Strong","textChars":6,"textLines":1,"bbox":[784,483,140,24]}
+{"kind":"shape","id":"sh/cv6dc72p","slide":5,"bbox":[934,462,160,66]}
+{"kind":"textbox","id":"sh/ruxwj2l4","slide":5,"text":"Partial","textPreview":"Partial","textChars":7,"textLines":1,"bbox":[944,483,140,24]}
+{"kind":"shape","id":"sh/qt4vahkj","slide":5,"bbox":[64,528,210,66]}
+{"kind":"textbox","id":"sh/10fepw36","slide":5,"text":"INDIE Protect","textPreview":"INDIE Protect","textChars":13,"textLines":1,"bbox":[74,549,190,24]}
+{"kind":"shape","id":"sh/0z6dgr2l","slide":5,"bbox":[274,528,160,66]}
+{"kind":"textbox","id":"sh/y50bat03","slide":5,"text":"Strong","textPreview":"Strong","textChars":6,"textLines":1,"bbox":[284,549,140,24]}
+{"kind":"shape","id":"sh/j69sjy1o","slide":5,"bbox":[434,528,160,66]}
+{"kind":"textbox","id":"sh/k7itcji9","slide":5,"text":"Cross-insurer","textPreview":"Cross-insurer","textChars":13,"textLines":1,"bbox":[444,549,140,24]}
+{"kind":"shape","id":"sh/l8raloju","slide":5,"bbox":[594,528,180,66]}
+{"kind":"textbox","id":"sh/690bet0f","slide":5,"text":"Strong","textPreview":"Strong","textChars":6,"textLines":1,"bbox":[604,549,160,24]}
+{"kind":"shape","id":"sh/7a9sny10","slide":5,"bbox":[774,528,160,66]}
+{"kind":"textbox","id":"sh/8b2tg3i5","slide":5,"text":"Strong","textPreview":"Strong","textChars":6,"textLines":1,"bbox":[784,549,140,24]}
+{"kind":"shape","id":"sh/twbap8jq","slide":5,"bbox":[934,528,160,66]}
+{"kind":"textbox","id":"sh/uxkbid0b","slide":5,"text":"Strong","textPreview":"Strong","textChars":6,"textLines":1,"bbox":[944,549,140,24]}
+{"kind":"shape","id":"sh/vytsri1w","slide":5,"bbox":[64,612,1152,44]}
+{"kind":"textbox","id":"sh/fq9o7a5c","slide":5,"text":"Strategic edge","textPreview":"Strategic edge","textChars":14,"textLines":1,"bbox":[82,624,120,20]}
+{"kind":"textbox","id":"sh/ep07e54r","slide":5,"text":"Use bank trust and consented context to recommend the next protection action, then complete it in the same experience.","textPreview":"Use bank trust and consented context to recommend the next protection action, then complete it in the same experience.","textChars":118,"textLines":1,"bbox":[212,620,970,28]}
+{"kind":"textbox","id":"sh/1sr69kni","slide":5,"text":"Sources: ACKO, Policybazaar, Digit, and IndusInd General Insurance official app/claims pages. Assessment based on public feature descriptions.","textPreview":"Sources: ACKO, Policybazaar, Digit, and IndusInd General Insurance official app/claims pages. Assessment based on public feature descript...","textChars":142,"textLines":1,"bbox":[64,673,1030,22]}
+{"kind":"notes","id":"nt/np8f75","slide":5,"text":""}
+{"kind":"slide","id":"sl/broke0","slide":6,"title":"INDIE  PROTECT","textShapes":20}
+{"kind":"shape","id":"sh/7al0jetg","slide":6,"bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/sve1sja1","slide":6,"text":"INDIE  PROTECT","textPreview":"INDIE  PROTECT","textChars":14,"textLines":1,"bbox":[64,28,220,24]}
+{"kind":"textbox","id":"sh/twnilobm","slide":6,"text":"VISION","textPreview":"VISION","textChars":6,"textLines":1,"bbox":[968,30,220,20]}
+{"kind":"textbox","id":"sh/i5cjm9cz","slide":6,"text":"Know. Cover. Act.","textPreview":"Know. Cover. Act.","textChars":17,"textLines":1,"bbox":[64,72,1080,52]}
+{"kind":"textbox","id":"sh/j6l0fetk","slide":6,"text":"INDIE Protect transforms insurance from a policy transaction into an ongoing protection service.","textPreview":"INDIE Protect transforms insurance from a policy transaction into an ongoing protection service.","textChars":96,"textLines":1,"bbox":[64,126,1080,44]}
+{"kind":"textbox","id":"sh/k7u1ozap","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1172,674,44,22]}
+{"kind":"shape","id":"sh/583ih4ba","slide":6,"bbox":[64,218,356,228]}
+{"kind":"shape","id":"sh/21wjyts3","slide":6,"bbox":[64,218,356,10]}
+{"kind":"shape","id":"sh/325kryto","slide":6,"bbox":[86,250,84,28]}
+{"kind":"textbox","id":"sh/3e94ny50","slide":6,"text":"KNOW","textPreview":"KNOW","textChars":4,"textLines":1,"bbox":[94,255,68,18]}
+{"kind":"textbox","id":"sh/2dgnedof","slide":6,"text":"See every policy and gap","textPreview":"See every policy and gap","textChars":24,"textLines":1,"bbox":[86,298,312,54]}
+{"kind":"textbox","id":"sh/pgrmp8n6","slide":6,"text":"A protection score, plain-language summaries, and a cross-insurer policy vault.","textPreview":"A protection score, plain-language summaries, and a cross-insurer policy vault.","textChars":79,"textLines":1,"bbox":[86,365,312,62]}
+{"kind":"shape","id":"sh/ofi5g36l","slide":6,"bbox":[454,218,356,228]}
+{"kind":"shape","id":"sh/b294ri5c","slide":6,"bbox":[454,218,356,10]}
+{"kind":"shape","id":"sh/qh0nidor","slide":6,"bbox":[476,250,84,28]}
+{"kind":"textbox","id":"sh/d4rmtsn2","slide":6,"text":"COVER","textPreview":"COVER","textChars":5,"textLines":1,"bbox":[484,255,68,18]}
+{"kind":"textbox","id":"sh/c3i5kn6x","slide":6,"text":"Choose with transparent trade-offs","textPreview":"Choose with transparent trade-offs","textChars":34,"textLines":1,"bbox":[476,298,312,54]}
+{"kind":"textbox","id":"sh/z6tovi58","slide":6,"text":"Profile-matched recommendations, side-by-side comparison, and secure bank-linked purchase.","textPreview":"Profile-matched recommendations, side-by-side comparison, and secure bank-linked purchase.","textChars":90,"textLines":1,"bbox":[476,365,312,62]}
+{"kind":"shape","id":"sh/y50nmxon","slide":6,"bbox":[844,218,356,228]}
+{"kind":"shape","id":"sh/a147uh8v","slide":6,"bbox":[844,218,356,10]}
+{"kind":"shape","id":"sh/v2d8nmpg","slide":6,"bbox":[866,250,84,28]}
+{"kind":"textbox","id":"sh/w3mpwrq1","slide":6,"text":"ACT","textPreview":"ACT","textChars":3,"textLines":1,"bbox":[874,255,68,18]}
+{"kind":"textbox","id":"sh/x4vqpw7m","slide":6,"text":"Get help with clear ownership","textPreview":"Get help with clear ownership","textChars":29,"textLines":1,"bbox":[866,298,312,54]}
+{"kind":"textbox","id":"sh/mx47qh8z","slide":6,"text":"Guided claims, visible status, renewals, roadside assistance, and telemedicine.","textPreview":"Guided claims, visible status, renewals, roadside assistance, and telemedicine.","textChars":79,"textLines":1,"bbox":[866,365,312,62]}
+{"kind":"shape","id":"sh/nyd8jmpk","slide":6,"bbox":[64,478,1152,142]}
+{"kind":"textbox","id":"sh/8zmpsrq5","slide":6,"text":"CUSTOMER VALUE","textPreview":"CUSTOMER VALUE","textChars":14,"textLines":1,"bbox":[88,502,160,20]}
+{"kind":"textbox","id":"sh/90vqlw7a","slide":6,"text":"Confidence before purchase and control during a claim","textPreview":"Confidence before purchase and control during a claim","textChars":53,"textLines":1,"bbox":[88,532,330,55]}
+{"kind":"textbox","id":"sh/6tor2l83","slide":6,"text":"BANK VALUE","textPreview":"BANK VALUE","textChars":10,"textLines":1,"bbox":[472,502,140,20]}
+{"kind":"textbox","id":"sh/7ux8v6po","slide":6,"text":"Higher adoption, retention, and relevant cross-sell","textPreview":"Higher adoption, retention, and relevant cross-sell","textChars":51,"textLines":1,"bbox":[472,532,300,55]}
+{"kind":"textbox","id":"sh/hojalkrq","slide":6,"text":"INSURER VALUE","textPreview":"INSURER VALUE","textChars":13,"textLines":1,"bbox":[836,502,150,20]}
+{"kind":"textbox","id":"sh/gnqtsfa5","slide":6,"text":"Cleaner intake, stronger engagement, fewer avoidable lapses","textPreview":"Cleaner intake, stronger engagement, fewer avoidable lapses","textChars":59,"textLines":1,"bbox":[836,532,330,55]}
+{"kind":"notes","id":"nt/broke0","slide":6,"text":""}
+{"kind":"slide","id":"sl/d0fkgj","slide":7,"title":"INDIE  PROTECT","textShapes":36}
+{"kind":"shape","id":"sh/cvap0zmt","slide":7,"bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/bu187u58","slide":7,"text":"INDIE  PROTECT","textPreview":"INDIE  PROTECT","textChars":14,"textLines":1,"bbox":[64,28,220,24]}
+{"kind":"textbox","id":"sh/qts7yp4n","slide":7,"text":"JOURNEY","textPreview":"JOURNEY","textChars":7,"textLines":1,"bbox":[968,30,220,20]}
+{"kind":"textbox","id":"sh/lk3qd4na","slide":7,"text":"The experience creates a repeatable protection loop","textPreview":"The experience creates a repeatable protection loop","textChars":51,"textLines":1,"bbox":[64,72,1080,52]}
+{"kind":"textbox","id":"sh/0jap4zmp","slide":7,"text":"Each stage produces a useful action and better context for the next stage, without turning sensitive bank data into a claim decision.","textPreview":"Each stage produces a useful action and better context for the next stage, without turning sensitive bank data into a claim decision.","textChars":133,"textLines":1,"bbox":[64,126,1080,44]}
+{"kind":"textbox","id":"sh/zi18bu54","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1172,674,44,22]}
+{"kind":"shape","id":"sh/yhs72p4j","slide":7,"bbox":[64,220,166,282]}
+{"kind":"shape","id":"sh/1oz610nq","slide":7,"bbox":[82,242,34,34]}
+{"kind":"textbox","id":"sh/gnqpsf6l","slide":7,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[82,250,34,18]}
+{"kind":"textbox","id":"sh/udgf21sf","slide":7,"text":"DISCOVER","textPreview":"DISCOVER","textChars":8,"textLines":1,"bbox":[82,294,130,22]}
+{"kind":"textbox","id":"sh/vepgb6t0","slide":7,"text":"Gap signal","textPreview":"Gap signal","textChars":10,"textLines":1,"bbox":[82,330,130,56]}
+{"kind":"textbox","id":"sh/wfyx4ba5","slide":7,"text":"Profile and life-stage recommendations","textPreview":"Profile and life-stage recommendations","textChars":38,"textLines":1,"bbox":[82,402,130,72]}
+{"kind":"textbox","id":"sh/hg7ydgbq","slide":7,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[233,330,20,30]}
+{"kind":"shape","id":"sh/ihgf61sb","slide":7,"bbox":[254,220,166,282]}
+{"kind":"shape","id":"sh/jipgf6tw","slide":7,"bbox":[272,242,34,34]}
+{"kind":"textbox","id":"sh/4jyx8bah","slide":7,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[272,250,34,18]}
+{"kind":"textbox","id":"sh/5kryhgr2","slide":7,"text":"COMPARE","textPreview":"COMPARE","textChars":7,"textLines":1,"bbox":[272,294,130,22]}
+{"kind":"textbox","id":"sh/6l0falsn","slide":7,"text":"Trade-off clarity","textPreview":"Trade-off clarity","textChars":17,"textLines":1,"bbox":[272,330,130,56]}
+{"kind":"textbox","id":"sh/rm9gjq9s","slide":7,"text":"Premium, cover, exclusions, fit","textPreview":"Premium, cover, exclusions, fit","textChars":31,"textLines":1,"bbox":[272,402,130,72]}
+{"kind":"textbox","id":"sh/3a9w7qp0","slide":7,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[423,330,20,30]}
+{"kind":"shape","id":"sh/290fyl8f","slide":7,"bbox":[444,220,166,282]}
+{"kind":"shape","id":"sh/pcbe9076","slide":7,"bbox":[462,242,34,34]}
+{"kind":"textbox","id":"sh/ob2x0vql","slide":7,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[462,250,34,18]}
+{"kind":"textbox","id":"sh/fm9w36p4","slide":7,"text":"BUY","textPreview":"BUY","textChars":3,"textLines":1,"bbox":[462,294,130,22]}
+{"kind":"textbox","id":"sh/el0ful8j","slide":7,"text":"Low-friction issue","textPreview":"Low-friction issue","textChars":18,"textLines":1,"bbox":[462,330,130,56]}
+{"kind":"textbox","id":"sh/1ore5g7a","slide":7,"text":"Consent and bank-linked payment","textPreview":"Consent and bank-linked payment","textChars":31,"textLines":1,"bbox":[462,402,130,72]}
+{"kind":"textbox","id":"sh/gnixwbqp","slide":7,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[613,330,20,30]}
+{"kind":"shape","id":"sh/ripwz6ps","slide":7,"bbox":[634,220,166,282]}
+{"kind":"shape","id":"sh/6hgvq187","slide":7,"bbox":[652,242,34,34]}
+{"kind":"textbox","id":"sh/wnet0765","slide":7,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[652,250,34,18]}
+{"kind":"textbox","id":"sh/honutcnq","slide":7,"text":"MANAGE","textPreview":"MANAGE","textChars":6,"textLines":1,"bbox":[652,294,130,22]}
+{"kind":"textbox","id":"sh/ulwbyxoz","slide":7,"text":"One vault","textPreview":"One vault","textChars":9,"textLines":1,"bbox":[652,330,130,56]}
+{"kind":"textbox","id":"sh/vm5c725k","slide":7,"text":"Documents, plain language, reminders","textPreview":"Documents, plain language, reminders","textChars":36,"textLines":1,"bbox":[652,402,130,72]}
+{"kind":"textbox","id":"sh/4ret476h","slide":7,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[803,330,20,30]}
+{"kind":"shape","id":"sh/5s7uxcnm","slide":7,"bbox":[824,220,166,282]}
+{"kind":"shape","id":"sh/ipwb2hob","slide":7,"bbox":[842,242,34,34]}
+{"kind":"textbox","id":"sh/jq5cvm5w","slide":7,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[842,250,34,18]}
+{"kind":"textbox","id":"sh/kvutsn6x","slide":7,"text":"CLAIM","textPreview":"CLAIM","textChars":5,"textLines":1,"bbox":[842,294,130,22]}
+{"kind":"textbox","id":"sh/lw3u1sni","slide":7,"text":"Visible ownership","textPreview":"Visible ownership","textChars":17,"textLines":1,"bbox":[842,330,130,56]}
+{"kind":"textbox","id":"sh/dcfm1sn2","slide":7,"text":"Evidence, next step, status","textPreview":"Evidence, next step, status","textChars":27,"textLines":1,"bbox":[842,402,130,72]}
+{"kind":"textbox","id":"sh/sb6lsn6h","slide":7,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[993,330,20,30]}
+{"kind":"shape","id":"sh/rqx4zi5w","slide":7,"bbox":[1014,220,166,282]}
+{"kind":"shape","id":"sh/qpo3qdob","slide":7,"bbox":[1032,242,34,34]}
+{"kind":"textbox","id":"sh/5ov2x8nq","slide":7,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1032,250,34,18]}
+{"kind":"textbox","id":"sh/4nmlo365","slide":7,"text":"RENEW","textPreview":"RENEW","textChars":5,"textLines":1,"bbox":[1032,294,130,22]}
+{"kind":"textbox","id":"sh/3mdkvy5k","slide":7,"text":"Protection review","textPreview":"Protection review","textChars":17,"textLines":1,"bbox":[1032,330,130,56]}
+{"kind":"textbox","id":"sh/il432dof","slide":7,"text":"Continuity, NCB, proactive advice","textPreview":"Continuity, NCB, proactive advice","textChars":33,"textLines":1,"bbox":[1032,402,130,72]}
+{"kind":"shape","id":"sh/hkv2t8nu","slide":7,"bbox":[64,540,1152,96]}
+{"kind":"textbox","id":"sh/gjml0369","slide":7,"text":"THE LOOP","textPreview":"THE LOOP","textChars":8,"textLines":1,"bbox":[86,560,100,20]}
+{"kind":"textbox","id":"sh/6p0ju947","slide":7,"text":"Every protected action improves the next recommendation, but underwriting and claim decisions remain purpose-limited and explainable.","textPreview":"Every protected action improves the next recommendation, but underwriting and claim decisions remain purpose-limited and explainable.","textChars":133,"textLines":1,"bbox":[198,554,960,52]}
+{"kind":"notes","id":"nt/d0fkgj","slide":7,"text":""}
+{"kind":"slide","id":"sl/g1lxn5","slide":8,"title":"INDIE  PROTECT","textShapes":17}
+{"kind":"shape","id":"sh/dwrat0v2","slide":8,"bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/q90bilwb","slide":8,"text":"INDIE  PROTECT","textPreview":"INDIE  PROTECT","textChars":14,"textLines":1,"bbox":[64,28,220,24]}
+{"kind":"textbox","id":"sh/ru9srqdw","slide":8,"text":"PROTOTYPE","textPreview":"PROTOTYPE","textChars":9,"textLines":1,"bbox":[968,30,220,20]}
+{"kind":"textbox","id":"sh/0zitoved","slide":8,"text":"The dashboard turns fragmented cover into clear next actions","textPreview":"The dashboard turns fragmented cover into clear next actions","textChars":60,"textLines":1,"bbox":[64,72,1080,52]}
+{"kind":"textbox","id":"sh/10rax0vy","slide":8,"text":"The home experience is not a product catalogue. It prioritises protection gaps, imminent renewals, policies, and immediate help.","textPreview":"The home experience is not a product catalogue. It prioritises protection gaps, imminent renewals, policies, and immediate help.","textChars":128,"textLines":1,"bbox":[64,126,1080,44]}
+{"kind":"textbox","id":"sh/ex0bm5wn","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1172,674,44,22]}
+{"kind":"shape","id":"sh/zy9svqds","slide":8,"bbox":[82,184,228,494]}
+{"kind":"shape","id":"sh/94bu1kva","slide":8,"bbox":[356,184,228,494]}
+{"kind":"shape","id":"sh/8rapo7al","slide":8,"bbox":[650,208,520,92]}
+{"kind":"shape","id":"sh/nq18f2t0","slide":8,"bbox":[664,222,30,30]}
+{"kind":"textbox","id":"sh/mps7mxsf","slide":8,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[664,228,30,18]}
+{"kind":"textbox","id":"sh/xg3qlcb2","slide":8,"text":"Protection score","textPreview":"Protection score","textChars":16,"textLines":1,"bbox":[706,221,450,26]}
+{"kind":"textbox","id":"sh/wfu9s7ah","slide":8,"text":"One number converts passive ownership into an improvement path.","textPreview":"One number converts passive ownership into an improvement path.","textChars":63,"textLines":1,"bbox":[706,251,450,38]}
+{"kind":"shape","id":"sh/ve18jmtw","slide":8,"bbox":[650,320,520,92]}
+{"kind":"shape","id":"sh/atsrqhsb","slide":8,"bbox":[664,334,30,30]}
+{"kind":"textbox","id":"sh/dkzq9sby","slide":8,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[664,340,30,18]}
+{"kind":"textbox","id":"sh/cjqpgnad","slide":8,"text":"Renewal urgency","textPreview":"Renewal urgency","textChars":15,"textLines":1,"bbox":[706,333,450,26]}
+{"kind":"textbox","id":"sh/43u9wni9","slide":8,"text":"The due date, no-claim bonus, and action appear together.","textPreview":"The due date, no-claim bonus, and action appear together.","textChars":57,"textLines":1,"bbox":[706,363,450,38]}
+{"kind":"shape","id":"sh/543qpsje","slide":8,"bbox":[650,432,520,92]}
+{"kind":"shape","id":"sh/i1c7ud03","slide":8,"bbox":[664,446,30,30]}
+{"kind":"textbox","id":"sh/32l8ni1o","slide":8,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[664,452,30,18]}
+{"kind":"textbox","id":"sh/s7u907i5","slide":8,"text":"Cross-insurer vault","textPreview":"Cross-insurer vault","textChars":19,"textLines":1,"bbox":[706,445,450,26]}
+{"kind":"textbox","id":"sh/d83qtsjq","slide":8,"text":"Customers can manage IndusInd and external policies in one view.","textPreview":"Customers can manage IndusInd and external policies in one view.","textChars":64,"textLines":1,"bbox":[706,475,450,38]}
+{"kind":"shape","id":"sh/q5cryx0z","slide":8,"bbox":[650,544,520,92]}
+{"kind":"shape","id":"sh/r6l8r21k","slide":8,"bbox":[664,558,30,30]}
+{"kind":"textbox","id":"sh/0ve947i1","slide":8,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[664,564,30,18]}
+{"kind":"textbox","id":"sh/1wnqxcjm","slide":8,"text":"Consent control","textPreview":"Consent control","textChars":15,"textLines":1,"bbox":[706,557,450,26]}
+{"kind":"textbox","id":"sh/bqpc36l4","slide":8,"text":"Connected data helps find gaps; the customer can remove access.","textPreview":"Connected data helps find gaps; the customer can remove access.","textChars":63,"textLines":1,"bbox":[706,587,450,38]}
+{"kind":"image","id":"im/lwjq9ozq","slide":8,"name":"","geometry":"roundRect","alt":"prototype-home.png","bbox":[89,191,214,480]}
+{"kind":"image","id":"im/mhw7ex0f","slide":8,"name":"","geometry":"roundRect","alt":"prototype-vault.png","bbox":[363,191,214,480]}
+{"kind":"notes","id":"nt/g1lxn5","slide":8,"text":""}
+{"kind":"slide","id":"sl/7uh0eh","slide":9,"title":"INDIE  PROTECT","textShapes":9}
+{"kind":"shape","id":"sh/94nu1wfy","slide":9,"bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/mhwbq1gn","slide":9,"text":"INDIE  PROTECT","textPreview":"INDIE  PROTECT","textChars":14,"textLines":1,"bbox":[64,28,220,24]}
+{"kind":"textbox","id":"sh/ni5szmx8","slide":9,"text":"PROTOTYPE","textPreview":"PROTOTYPE","textChars":9,"textLines":1,"bbox":[968,30,220,20]}
+{"kind":"textbox","id":"sh/w7ytwbyp","slide":9,"text":"Comparison makes trade-offs visible before purchase","textPreview":"Comparison makes trade-offs visible before purchase","textChars":51,"textLines":1,"bbox":[64,72,1080,52]}
+{"kind":"textbox","id":"sh/x87u5gfa","slide":9,"text":"Customers see fit, insured value, add-ons, and exclusions in the same decision surface, then complete a simulated bank-linked checkout.","textPreview":"Customers see fit, insured value, add-ons, and exclusions in the same decision surface, then complete a simulated bank-linked checkout.","textChars":135,"textLines":1,"bbox":[64,126,1080,44]}
+{"kind":"textbox","id":"sh/a5wbu1gj","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1172,674,44,22]}
+{"kind":"shape","id":"sh/v65c36x4","slide":9,"bbox":[74,190,218,472]}
+{"kind":"shape","id":"sh/dkvudsju","slide":9,"bbox":[370,566,380,60]}
+{"kind":"textbox","id":"sh/sjmdkn29","slide":9,"text":"Why this matters","textPreview":"Why this matters","textChars":16,"textLines":1,"bbox":[390,578,130,20]}
+{"kind":"textbox","id":"sh/ridcbi1o","slide":9,"text":"Rs. 179/month makes the upgrade cost tangible.","textPreview":"Rs. 179/month makes the upgrade cost tangible.","textChars":46,"textLines":1,"bbox":[522,574,210,40]}
+{"kind":"shape","id":"sh/qhkvidk3","slide":9,"bbox":[776,566,376,60]}
+{"kind":"textbox","id":"sh/1ovuhsjq","slide":9,"text":"Trust pattern","textPreview":"Trust pattern","textChars":13,"textLines":1,"bbox":[794,578,112,20]}
+{"kind":"textbox","id":"sh/0nmdo72l","slide":9,"text":"Coverage and exclusions stay visible before confirmation.","textPreview":"Coverage and exclusions stay visible before confirmation.","textChars":57,"textLines":1,"bbox":[908,574,222,40]}
+{"kind":"image","id":"im/pg7i9wfm","slide":9,"name":"","geometry":"roundRect","alt":"prototype-explore.png","bbox":[81,197,204,458]}
+{"kind":"image","id":"im/ofyhgreh","slide":9,"name":"","geometry":"roundRect","alt":"compare-desktop.png","bbox":[342,194,838,454]}
+{"kind":"notes","id":"nt/7uh0eh","slide":9,"text":""}
+{"kind":"slide","id":"sl/9kd6to","slide":10,"title":"INDIE  PROTECT","textShapes":16}
+{"kind":"shape","id":"sh/rit0bidk","slide":10,"bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/sj2hkne5","slide":10,"text":"INDIE  PROTECT","textPreview":"INDIE  PROTECT","textChars":14,"textLines":1,"bbox":[64,28,220,24]}
+{"kind":"textbox","id":"sh/tkbid8va","slide":10,"text":"PROTOTYPE","textPreview":"PROTOTYPE","textChars":9,"textLines":1,"bbox":[968,30,220,20]}
+{"kind":"textbox","id":"sh/it0zetwn","slide":10,"text":"Claims show ownership, evidence, and the next step","textPreview":"Claims show ownership, evidence, and the next step","textChars":50,"textLines":1,"bbox":[64,72,1080,52]}
+{"kind":"textbox","id":"sh/je907yd8","slide":10,"text":"A guided intake reduces document anxiety; tracking states who owns the claim; Protect AI explains policy language using the customer’s context.","textPreview":"A guided intake reduces document anxiety; tracking states who owns the claim; Protect AI explains policy language using the customer’s co...","textChars":143,"textLines":1,"bbox":[64,126,1080,44]}
+{"kind":"textbox","id":"sh/4fihg3et","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1172,674,44,22]}
+{"kind":"shape","id":"sh/5gri98ve","slide":10,"bbox":[96,184,224,486]}
+{"kind":"shape","id":"sh/vq9g3ydc","slide":10,"bbox":[362,184,224,486]}
+{"kind":"shape","id":"sh/u90zmpkb","slide":10,"bbox":[652,214,500,92]}
+{"kind":"shape","id":"sh/hcrixkj2","slide":10,"bbox":[666,228,30,30]}
+{"kind":"textbox","id":"sh/wbi1oz2h","slide":10,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[666,234,30,18]}
+{"kind":"textbox","id":"sh/jet0ju1s","slide":10,"text":"Three-step intake","textPreview":"Three-step intake","textChars":17,"textLines":1,"bbox":[708,227,430,26]}
+{"kind":"textbox","id":"sh/idkjqpk7","slide":10,"text":"Incident, evidence, and confirmation. Ask only for what is needed.","textPreview":"Incident, evidence, and confirmation. Ask only for what is needed.","textChars":66,"textLines":1,"bbox":[708,257,430,38]}
+{"kind":"shape","id":"sh/50bil4jy","slide":10,"bbox":[652,330,500,92]}
+{"kind":"shape","id":"sh/4z21szid","slide":10,"bbox":[666,344,30,30]}
+{"kind":"textbox","id":"sh/zip0na1o","slide":10,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[666,350,30,18]}
+{"kind":"textbox","id":"sh/yhgze5k3","slide":10,"text":"Visible ownership","textPreview":"Visible ownership","textChars":17,"textLines":1,"bbox":[708,343,430,26]}
+{"kind":"textbox","id":"sh/2xo3mdkr","slide":10,"text":"The customer sees the current team, action, and expected update.","textPreview":"The customer sees the current team, action, and expected update.","textChars":64,"textLines":1,"bbox":[708,373,430,38]}
+{"kind":"shape","id":"sh/nyx4vilc","slide":10,"bbox":[652,446,500,92]}
+{"kind":"shape","id":"sh/oz6lo32x","slide":10,"bbox":[666,460,30,30]}
+{"kind":"textbox","id":"sh/p0fmx832","slide":10,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[666,466,30,18]}
+{"kind":"textbox","id":"sh/et43it4f","slide":10,"text":"Plain-language support","textPreview":"Plain-language support","textChars":22,"textLines":1,"bbox":[708,459,430,26]}
+{"kind":"textbox","id":"sh/fudkryl0","slide":10,"text":"AI explains terms and documents but links decisions back to policy wording.","textPreview":"AI explains terms and documents but links decisions back to policy wording.","textChars":75,"textLines":1,"bbox":[708,489,430,38]}
+{"kind":"shape","id":"sh/gvmlk3ml","slide":10,"bbox":[652,568,500,70]}
+{"kind":"textbox","id":"sh/1wf2t836","slide":10,"text":"Prototype behaviour","textPreview":"Prototype behaviour","textChars":19,"textLines":1,"bbox":[672,580,152,20]}
+{"kind":"textbox","id":"sh/6543et4j","slide":10,"text":"Claim updates are simulated so evaluators can walk through the full lifecycle without backend integrations.","textPreview":"Claim updates are simulated so evaluators can walk through the full lifecycle without backend integrations.","textChars":107,"textLines":1,"bbox":[826,576,304,44]}
+{"kind":"image","id":"im/vupsvidk","slide":10,"name":"","geometry":"roundRect","alt":"prototype-claim.png","bbox":[103,191,210,472]}
+{"kind":"image","id":"im/wfq50vmp","slide":10,"name":"","geometry":"roundRect","alt":"prototype-assistant.png","bbox":[369,191,210,472]}
+{"kind":"notes","id":"nt/9kd6to","slide":10,"text":""}
+{"kind":"slide","id":"sl/bdvkr7","slide":11,"title":"INDIE  PROTECT","textShapes":56}
+{"kind":"shape","id":"sh/c761wjyh","slide":11,"bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/bmx0nehw","slide":11,"text":"INDIE  PROTECT","textPreview":"INDIE  PROTECT","textChars":14,"textLines":1,"bbox":[64,28,220,24]}
+{"kind":"textbox","id":"sh/aloju90b","slide":11,"text":"EXECUTION","textPreview":"EXECUTION","textChars":9,"textLines":1,"bbox":[968,30,220,20]}
+{"kind":"textbox","id":"sh/pkvil4z6","slide":11,"text":"The MVP prioritises trust-building actions over feature breadth","textPreview":"The MVP prioritises trust-building actions over feature breadth","textChars":63,"textLines":1,"bbox":[64,72,1080,52]}
+{"kind":"textbox","id":"sh/ojm1szil","slide":11,"text":"Illustrative RICE scoring favours features that improve lifecycle completion with manageable integration effort.","textPreview":"Illustrative RICE scoring favours features that improve lifecycle completion with manageable integration effort.","textChars":112,"textLines":1,"bbox":[64,126,1080,44]}
+{"kind":"textbox","id":"sh/nid0juh0","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1172,674,44,22]}
+{"kind":"shape","id":"sh/2h4zqp0f","slide":11,"bbox":[64,194,360,50]}
+{"kind":"textbox","id":"sh/1gvihkzu","slide":11,"text":"FEATURE","textPreview":"FEATURE","textChars":7,"textLines":1,"bbox":[72,210,344,20]}
+{"kind":"shape","id":"sh/0fmhozi9","slide":11,"bbox":[424,194,100,50]}
+{"kind":"textbox","id":"sh/q94napwr","slide":11,"text":"REACH","textPreview":"REACH","textChars":5,"textLines":1,"bbox":[432,210,84,20]}
+{"kind":"shape","id":"sh/rad4juxc","slide":11,"bbox":[524,194,110,50]}
+{"kind":"textbox","id":"sh/cb65cfex","slide":11,"text":"IMPACT","textPreview":"IMPACT","textChars":6,"textLines":1,"bbox":[532,210,94,20]}
+{"kind":"shape","id":"sh/dcfmlkfi","slide":11,"bbox":[634,194,110,50]}
+{"kind":"textbox","id":"sh/254n65wf","slide":11,"text":"CONF.","textPreview":"CONF.","textChars":5,"textLines":1,"bbox":[642,210,94,20]}
+{"kind":"shape","id":"sh/36d4fax0","slide":11,"bbox":[744,194,100,50]}
+{"kind":"textbox","id":"sh/47m58fel","slide":11,"text":"EFFORT","textPreview":"EFFORT","textChars":6,"textLines":1,"bbox":[752,210,84,20]}
+{"kind":"shape","id":"sh/p8vmhkf6","slide":11,"bbox":[844,194,120,50]}
+{"kind":"textbox","id":"sh/uhk325wj","slide":11,"text":"RICE","textPreview":"RICE","textChars":4,"textLines":1,"bbox":[852,210,104,20]}
+{"kind":"shape","id":"sh/fit4bax4","slide":11,"bbox":[64,244,360,58]}
+{"kind":"textbox","id":"sh/zapsn29k","slide":11,"text":"Unified policy vault","textPreview":"Unified policy vault","textChars":20,"textLines":1,"bbox":[74,262,340,24]}
+{"kind":"shape","id":"sh/y9gbux8z","slide":11,"bbox":[424,244,100,58]}
+{"kind":"textbox","id":"sh/lc7apcrq","slide":11,"text":"9","textPreview":"9","textChars":1,"textLines":1,"bbox":[434,262,80,24]}
+{"kind":"shape","id":"sh/kbytw7q5","slide":11,"bbox":[524,244,110,58]}
+{"kind":"textbox","id":"sh/7ypsrm9w","slide":11,"text":"3.0","textPreview":"3.0","textChars":3,"textLines":1,"bbox":[534,262,90,24]}
+{"kind":"shape","id":"sh/mdgbyh8b","slide":11,"bbox":[634,244,110,58]}
+{"kind":"textbox","id":"sh/90ratcrm","slide":11,"text":"85%","textPreview":"85%","textChars":3,"textLines":1,"bbox":[644,262,90,24]}
+{"kind":"shape","id":"sh/8zit0rq1","slide":11,"bbox":[744,244,100,58]}
+{"kind":"textbox","id":"sh/ni5sfi9c","slide":11,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[754,262,80,24]}
+{"kind":"shape","id":"sh/2hwrmdsr","slide":11,"bbox":[844,244,120,58]}
+{"kind":"textbox","id":"sh/snapwj6p","slide":11,"text":"11.5","textPreview":"11.5","textChars":4,"textLines":1,"bbox":[854,262,100,24]}
+{"kind":"shape","id":"sh/do3qpo7a","slide":11,"bbox":[318,259,82,28]}
+{"kind":"textbox","id":"sh/qls7u9oj","slide":11,"text":"MUST","textPreview":"MUST","textChars":4,"textLines":1,"bbox":[326,264,66,18]}
+{"kind":"shape","id":"sh/rm18nep4","slide":11,"bbox":[64,302,360,58]}
+{"kind":"textbox","id":"sh/4japsjqt","slide":11,"text":"Guided motor claims","textPreview":"Guided motor claims","textChars":19,"textLines":1,"bbox":[74,320,340,24]}
+{"kind":"shape","id":"sh/5kjql47e","slide":11,"bbox":[424,302,100,58]}
+{"kind":"textbox","id":"sh/ihs7q98n","slide":11,"text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[434,320,80,24]}
+{"kind":"shape","id":"sh/3i18jep8","slide":11,"bbox":[524,302,110,58]}
+{"kind":"textbox","id":"sh/ofu9436x","slide":11,"text":"3.0","textPreview":"3.0","textChars":3,"textLines":1,"bbox":[534,320,90,24]}
+{"kind":"shape","id":"sh/pgnqx87i","slide":11,"bbox":[634,302,110,58]}
+{"kind":"textbox","id":"sh/lkfmp0nu","slide":11,"text":"90%","textPreview":"90%","textChars":3,"textLines":1,"bbox":[644,320,90,24]}
+{"kind":"shape","id":"sh/kj65wv69","slide":11,"bbox":[744,302,100,58]}
+{"kind":"textbox","id":"sh/jyx4nq5o","slide":11,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[754,320,80,24]}
+{"kind":"shape","id":"sh/yx4nulo3","slide":11,"bbox":[844,302,120,58]}
+{"kind":"textbox","id":"sh/tofmtkn6","slide":11,"text":"10.8","textPreview":"10.8","textChars":4,"textLines":1,"bbox":[854,320,100,24]}
+{"kind":"shape","id":"sh/8n650fml","slide":11,"bbox":[318,317,82,28]}
+{"kind":"textbox","id":"sh/7mx4ra50","slide":11,"text":"MUST","textPreview":"MUST","textChars":4,"textLines":1,"bbox":[326,322,66,18]}
+{"kind":"shape","id":"sh/6lony5of","slide":11,"bbox":[64,360,360,58]}
+{"kind":"textbox","id":"sh/hsz6xkn2","slide":11,"text":"Renewal nudges + autopay","textPreview":"Renewal nudges + autopay","textChars":24,"textLines":1,"bbox":[74,378,340,24]}
+{"kind":"shape","id":"sh/grq54fmh","slide":11,"bbox":[424,360,100,58]}
+{"kind":"textbox","id":"sh/ex0jih4z","slide":11,"text":"9","textPreview":"9","textChars":1,"textLines":1,"bbox":[434,378,80,24]}
+{"kind":"shape","id":"sh/fytkrmlk","slide":11,"bbox":[524,360,110,58]}
+{"kind":"textbox","id":"sh/0z21krm5","slide":11,"text":"2.0","textPreview":"2.0","textChars":3,"textLines":1,"bbox":[534,378,90,24]}
+{"kind":"shape","id":"sh/10b2tw3q","slide":11,"bbox":[634,360,110,58]}
+{"kind":"textbox","id":"sh/21kjmh4v","slide":11,"text":"90%","textPreview":"90%","textChars":3,"textLines":1,"bbox":[644,378,90,24]}
+{"kind":"shape","id":"sh/n2tkvmlg","slide":11,"bbox":[744,360,100,58]}
+{"kind":"textbox","id":"sh/o321orm1","slide":11,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[754,378,80,24]}
+{"kind":"shape","id":"sh/p4b2xw3m","slide":11,"bbox":[844,360,120,58]}
+{"kind":"textbox","id":"sh/apk3q1k7","slide":11,"text":"8.1","textPreview":"8.1","textChars":3,"textLines":1,"bbox":[854,378,100,24]}
+{"kind":"shape","id":"sh/bqdkz6ls","slide":11,"bbox":[318,375,82,28]}
+{"kind":"textbox","id":"sh/7ud0n610","slide":11,"text":"MUST","textPreview":"MUST","textChars":4,"textLines":1,"bbox":[326,380,66,18]}
+{"kind":"shape","id":"sh/mt4je10f","slide":11,"bbox":[64,418,360,58]}
+{"kind":"textbox","id":"sh/twvipgjq","slide":11,"text":"Transparent comparison","textPreview":"Transparent comparison","textChars":22,"textLines":1,"bbox":[74,436,340,24]}
+{"kind":"shape","id":"sh/8vm1gbi5","slide":11,"bbox":[424,418,100,58]}
+{"kind":"textbox","id":"sh/z6d0j61o","slide":11,"text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[434,436,80,24]}
+{"kind":"shape","id":"sh/y5kja103","slide":11,"bbox":[524,418,110,58]}
+{"kind":"textbox","id":"sh/lsvilwju","slide":11,"text":"2.0","textPreview":"2.0","textChars":3,"textLines":1,"bbox":[534,436,90,24]}
+{"kind":"shape","id":"sh/krm1cri9","slide":11,"bbox":[634,418,110,58]}
+{"kind":"textbox","id":"sh/b2t0fm1s","slide":11,"text":"85%","textPreview":"85%","textChars":3,"textLines":1,"bbox":[644,436,90,24]}
+{"kind":"shape","id":"sh/a1kj6h07","slide":11,"bbox":[744,418,100,58]}
+{"kind":"textbox","id":"sh/gvyp0jut","slide":11,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[754,436,80,24]}
+{"kind":"shape","id":"sh/1w76tove","slide":11,"bbox":[844,418,120,58]}
+{"kind":"textbox","id":"sh/etg7ytcn","slide":11,"text":"6.8","textPreview":"6.8","textChars":3,"textLines":1,"bbox":[854,436,100,24]}
+{"kind":"shape","id":"sh/fuporyd8","slide":11,"bbox":[318,433,82,28]}
+{"kind":"textbox","id":"sh/ozyp43up","slide":11,"text":"MUST","textPreview":"MUST","textChars":4,"textLines":1,"bbox":[326,438,66,18]}
+{"kind":"shape","id":"sh/p0rqx8va","slide":11,"bbox":[64,476,360,58]}
+{"kind":"textbox","id":"sh/2xg72tcj","slide":11,"text":"Protection score","textPreview":"Protection score","textChars":16,"textLines":1,"bbox":[74,494,340,24]}
+{"kind":"shape","id":"sh/3yp8vyd4","slide":11,"bbox":[424,476,100,58]}
+{"kind":"textbox","id":"sh/43epszul","slide":11,"text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[434,494,80,24]}
+{"kind":"shape","id":"sh/54n6l4v6","slide":11,"bbox":[524,476,110,58]}
+{"kind":"textbox","id":"sh/98jmt0by","slide":11,"text":"2.0","textPreview":"2.0","textChars":3,"textLines":1,"bbox":[534,494,90,24]}
+{"kind":"shape","id":"sh/87al0fad","slide":11,"bbox":[634,476,110,58]}
+{"kind":"textbox","id":"sh/7614rats","slide":11,"text":"70%","textPreview":"70%","textChars":3,"textLines":1,"bbox":[644,494,90,24]}
+{"kind":"shape","id":"sh/m5s3y5s7","slide":11,"bbox":[744,476,100,58]}
+{"kind":"textbox","id":"sh/l4jmp0bm","slide":11,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[754,494,80,24]}
+{"kind":"shape","id":"sh/03alwva1","slide":11,"bbox":[844,476,120,58]}
+{"kind":"textbox","id":"sh/z214nqtw","slide":11,"text":"4.9","textPreview":"4.9","textChars":3,"textLines":1,"bbox":[854,494,100,24]}
+{"kind":"shape","id":"sh/y183ulsb","slide":11,"bbox":[318,491,82,28]}
+{"kind":"textbox","id":"sh/503m1kb6","slide":11,"text":"SHOULD","textPreview":"SHOULD","textChars":6,"textLines":1,"bbox":[326,496,66,18]}
+{"kind":"shape","id":"sh/4zu58zal","slide":11,"bbox":[64,534,360,58]}
+{"kind":"textbox","id":"sh/2lojmh83","slide":11,"text":"Protect AI explanations","textPreview":"Protect AI explanations","textChars":23,"textLines":1,"bbox":[74,552,340,24]}
+{"kind":"shape","id":"sh/36x0vm9o","slide":11,"bbox":[424,534,100,58]}
+{"kind":"textbox","id":"sh/o761orqt","slide":11,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[434,552,80,24]}
+{"kind":"shape","id":"sh/p8f2xwre","slide":11,"bbox":[524,534,110,58]}
+{"kind":"textbox","id":"sh/eh4jih8r","slide":11,"text":"2.0","textPreview":"2.0","textChars":3,"textLines":1,"bbox":[534,552,90,24]}
+{"kind":"shape","id":"sh/fid0rm9c","slide":11,"bbox":[634,534,110,58]}
+{"kind":"textbox","id":"sh/gj61krqx","slide":11,"text":"65%","textPreview":"65%","textChars":3,"textLines":1,"bbox":[644,552,90,24]}
+{"kind":"shape","id":"sh/1kfitcri","slide":11,"bbox":[744,534,100,58]}
+{"kind":"textbox","id":"sh/yd8ju18b","slide":11,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[754,552,80,24]}
+{"kind":"shape","id":"sh/zehk369g","slide":11,"bbox":[844,534,120,58]}
+{"kind":"textbox","id":"sh/crutoj2l","slide":11,"text":"2.6","textPreview":"2.6","textChars":3,"textLines":1,"bbox":[854,552,100,24]}
+{"kind":"shape","id":"sh/ds3uhoj6","slide":11,"bbox":[318,549,82,28]}
+{"kind":"textbox","id":"sh/qpcbm9kf","slide":11,"text":"SHOULD","textPreview":"SHOULD","textChars":6,"textLines":1,"bbox":[326,554,66,18]}
+{"kind":"shape","id":"sh/rqlcfe10","slide":11,"bbox":[64,608,1152,42]}
+{"kind":"textbox","id":"sh/4natkz29","slide":11,"text":"OUT OF MVP","textPreview":"OUT OF MVP","textChars":10,"textLines":1,"bbox":[82,620,110,18]}
+{"kind":"textbox","id":"sh/po3ud4ju","slide":11,"text":"Real-time telematics, automated fraud decisions, pet/rental cover, and fully autonomous claim adjudication.","textPreview":"Real-time telematics, automated fraud decisions, pet/rental cover, and fully autonomous claim adjudication.","textChars":107,"textLines":1,"bbox":[200,616,980,24]}
+{"kind":"textbox","id":"sh/21sbi9kj","slide":11,"text":"RICE inputs are product assumptions: Reach (1-10), Impact (0.5-3), Confidence, Effort (person-month index).","textPreview":"RICE inputs are product assumptions: Reach (1-10), Impact (0.5-3), Confidence, Effort (person-month index).","textChars":107,"textLines":1,"bbox":[64,673,1030,22]}
+{"kind":"notes","id":"nt/bdvkr7","slide":11,"text":""}
+{"kind":"slide","id":"sl/4cbhlh","slide":12,"title":"INDIE  PROTECT","textShapes":26}
+{"kind":"shape","id":"sh/nmho7y90","slide":12,"bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/87q5g3ql","slide":12,"text":"INDIE  PROTECT","textPreview":"INDIE  PROTECT","textChars":14,"textLines":1,"bbox":[64,28,220,24]}
+{"kind":"textbox","id":"sh/98z698r6","slide":12,"text":"METRICS","textPreview":"METRICS","textChars":7,"textLines":1,"bbox":[968,30,220,20]}
+{"kind":"textbox","id":"sh/yhonat8j","slide":12,"text":"Protected actions are the leading indicator of long-term value","textPreview":"Protected actions are the leading indicator of long-term value","textChars":62,"textLines":1,"bbox":[64,72,1080,52]}
+{"kind":"textbox","id":"sh/zih43y94","slide":12,"text":"The north star rewards useful lifecycle behaviour, while trust and loss-related guardrails prevent growth at the customer’s expense.","textPreview":"The north star rewards useful lifecycle behaviour, while trust and loss-related guardrails prevent growth at the customer’s expense.","textChars":132,"textLines":1,"bbox":[64,126,1080,44]}
+{"kind":"textbox","id":"sh/0jq5cjqp","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1172,674,44,22]}
+{"kind":"shape","id":"sh/lkz65ora","slide":12,"bbox":[64,190,1152,112]}
+{"kind":"textbox","id":"sh/qdon698n","slide":12,"text":"NORTH STAR METRIC","textPreview":"NORTH STAR METRIC","textChars":17,"textLines":1,"bbox":[88,212,220,20]}
+{"kind":"textbox","id":"sh/bex4ze98","slide":12,"text":"Monthly Protected Actions per Active Insured Customer","textPreview":"Monthly Protected Actions per Active Insured Customer","textChars":53,"textLines":1,"bbox":[88,242,760,34]}
+{"kind":"textbox","id":"sh/zatgvel4","slide":12,"text":"Examples: gap review, policy import, purchase, renewal, claim step, or assistance request.","textPreview":"Examples: gap review, policy import, purchase, renewal, claim step, or assistance request.","textChars":90,"textLines":1,"bbox":[862,222,312,58]}
+{"kind":"shape","id":"sh/e90z29kj","slide":12,"bbox":[64,334,270,258]}
+{"kind":"shape","id":"sh/1wbix43u","slide":12,"bbox":[82,354,112,28]}
+{"kind":"textbox","id":"sh/0v2h4z2p","slide":12,"text":"ADOPTION","textPreview":"ADOPTION","textChars":8,"textLines":1,"bbox":[90,359,96,18]}
+{"kind":"shape","id":"sh/nyt0ze10","slide":12,"bbox":[86,408,9,9]}
+{"kind":"textbox","id":"sh/mxkz69kf","slide":12,"text":"Quote-to-purchase conversion","textPreview":"Quote-to-purchase conversion","textChars":28,"textLines":1,"bbox":[106,400,204,36]}
+{"kind":"shape","id":"sh/90bi1oj6","slide":12,"bbox":[86,462,9,9]}
+{"kind":"textbox","id":"sh/oz2h8j2l","slide":12,"text":"Policies imported per user","textPreview":"Policies imported per user","textChars":26,"textLines":1,"bbox":[106,454,204,36]}
+{"kind":"shape","id":"sh/32pgnulw","slide":12,"bbox":[86,516,9,9]}
+{"kind":"textbox","id":"sh/i1gzupkb","slide":12,"text":"New insured customers","textPreview":"New insured customers","textChars":21,"textLines":1,"bbox":[106,508,204,36]}
+{"kind":"shape","id":"sh/698bih8v","slide":12,"bbox":[352,334,270,258]}
+{"kind":"shape","id":"sh/7ahcrmpg","slide":12,"bbox":[370,354,112,28]}
+{"kind":"textbox","id":"sh/sbqtkrq1","slide":12,"text":"LIFECYCLE","textPreview":"LIFECYCLE","textChars":9,"textLines":1,"bbox":[378,359,96,18]}
+{"kind":"shape","id":"sh/twzutw7m","slide":12,"bbox":[374,408,9,9]}
+{"kind":"textbox","id":"sh/i5obeh8z","slide":12,"text":"Renewal completion rate","textPreview":"Renewal completion rate","textChars":23,"textLines":1,"bbox":[394,400,204,36]}
+{"kind":"shape","id":"sh/j6xsnm9k","slide":12,"bbox":[374,462,9,9]}
+{"kind":"textbox","id":"sh/k7qtg7q5","slide":12,"text":"Claim step completion","textPreview":"Claim step completion","textChars":21,"textLines":1,"bbox":[394,454,204,36]}
+{"kind":"shape","id":"sh/58zapcrq","slide":12,"bbox":[374,516,9,9]}
+{"kind":"textbox","id":"sh/a1obax83","slide":12,"text":"Monthly protected actions","textPreview":"Monthly protected actions","textChars":25,"textLines":1,"bbox":[394,508,204,36]}
+{"kind":"shape","id":"sh/v2xsj298","slide":12,"bbox":[640,334,270,258]}
+{"kind":"shape","id":"sh/dw3ep0r6","slide":12,"bbox":[658,354,112,28]}
+{"kind":"textbox","id":"sh/cvudwval","slide":12,"text":"TRUST","textPreview":"TRUST","textChars":5,"textLines":1,"bbox":[666,359,96,18]}
+{"kind":"shape","id":"sh/bulwnq90","slide":12,"bbox":[662,408,9,9]}
+{"kind":"textbox","id":"sh/qtcvu5sf","slide":12,"text":"Coverage comprehension","textPreview":"Coverage comprehension","textChars":22,"textLines":1,"bbox":[682,400,204,36]}
+{"kind":"shape","id":"sh/ps3el0ru","slide":12,"bbox":[662,462,9,9]}
+{"kind":"textbox","id":"sh/4rudsva9","slide":12,"text":"Claim CSAT / NPS","textPreview":"Claim CSAT / NPS","textChars":16,"textLines":1,"bbox":[682,454,204,36]}
+{"kind":"shape","id":"sh/3qlwjqto","slide":12,"bbox":[662,516,9,9]}
+{"kind":"textbox","id":"sh/25svqls3","slide":12,"text":"Support repeat-contact rate","textPreview":"Support repeat-contact rate","textChars":27,"textLines":1,"bbox":[682,508,204,36]}
+{"kind":"shape","id":"sh/h4jehgby","slide":12,"bbox":[928,334,270,258]}
+{"kind":"shape","id":"sh/g3adobad","slide":12,"bbox":[946,354,112,28]}
+{"kind":"textbox","id":"sh/wvid8v6x","slide":12,"text":"GUARDRAILS","textPreview":"GUARDRAILS","textChars":10,"textLines":1,"bbox":[954,359,96,18]}
+{"kind":"shape","id":"sh/hwbe10ni","slide":12,"bbox":[950,408,9,9]}
+{"kind":"textbox","id":"sh/ut0v6lo7","slide":12,"text":"Complaint rate","textPreview":"Complaint rate","textChars":14,"textLines":1,"bbox":[970,400,204,36]}
+{"kind":"shape","id":"sh/vu9wzq5c","slide":12,"bbox":[950,462,9,9]}
+{"kind":"textbox","id":"sh/4j2dcv69","slide":12,"text":"Consent opt-out rate","textPreview":"Consent opt-out rate","textChars":20,"textLines":1,"bbox":[970,454,204,36]}
+{"kind":"shape","id":"sh/5kbe50nu","slide":12,"bbox":[950,516,9,9]}
+{"kind":"textbox","id":"sh/ixkva5o3","slide":12,"text":"Claim TAT and leakage","textPreview":"Claim TAT and leakage","textChars":21,"textLines":1,"bbox":[970,508,204,36]}
+{"kind":"shape","id":"sh/jitw3a5o","slide":12,"bbox":[64,616,1152,36]}
+{"kind":"textbox","id":"sh/knyd0b6p","slide":12,"text":"Pilot target","textPreview":"Pilot target","textChars":12,"textLines":1,"bbox":[84,626,100,18]}
+{"kind":"textbox","id":"sh/lo7utgna","slide":12,"text":"+10% renewal completion and -20% claim-status support contacts versus matched control.","textPreview":"+10% renewal completion and -20% claim-status support contacts versus matched control.","textChars":86,"textLines":1,"bbox":[190,622,960,24]}
+{"kind":"notes","id":"nt/4cbhlh","slide":12,"text":""}
+{"kind":"slide","id":"sl/rn4sna","slide":13,"title":"INDIE  PROTECT","textShapes":28}
+{"kind":"shape","id":"sh/etgve143","slide":13,"bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/1gre9wne","slide":13,"text":"INDIE  PROTECT","textPreview":"INDIE  PROTECT","textChars":14,"textLines":1,"bbox":[64,28,220,24]}
+{"kind":"textbox","id":"sh/0fydgrm9","slide":13,"text":"GTM","textPreview":"GTM","textChars":3,"textLines":1,"bbox":[968,30,220,20]}
+{"kind":"textbox","id":"sh/ni9wb65k","slide":13,"text":"Bank signals create high-intent distribution moments","textPreview":"Bank signals create high-intent distribution moments","textChars":52,"textLines":1,"bbox":[64,72,1080,52]}
+{"kind":"textbox","id":"sh/mh0vi14z","slide":13,"text":"Launch inside INDIE with consented, contextual prompts. Measure incremental protection actions against a holdout group.","textPreview":"Launch inside INDIE with consented, contextual prompts. Measure incremental protection actions against a holdout group.","textChars":119,"textLines":1,"bbox":[64,126,1080,44]}
+{"kind":"textbox","id":"sh/9kredgnq","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1172,674,44,22]}
+{"kind":"shape","id":"sh/ojidkbm5","slide":13,"bbox":[64,198,360,250]}
+{"kind":"shape","id":"sh/bm9wf65w","slide":13,"bbox":[84,220,92,28]}
+{"kind":"textbox","id":"sh/al0fml4b","slide":13,"text":"MOTOR","textPreview":"MOTOR","textChars":5,"textLines":1,"bbox":[92,225,76,18]}
+{"kind":"textbox","id":"sh/srq50b65","slide":13,"text":"Renewal or vehicle signal","textPreview":"Renewal or vehicle signal","textChars":25,"textLines":1,"bbox":[84,266,320,52]}
+{"kind":"textbox","id":"sh/tszm9gnq","slide":13,"text":"Policy premium detected, FASTag activity, or car-loan milestone.","textPreview":"Policy premium detected, FASTag activity, or car-loan milestone.","textChars":64,"textLines":1,"bbox":[84,332,320,58]}
+{"kind":"shape","id":"sh/658ny1oz","slide":13,"bbox":[84,404,320,1]}
+{"kind":"textbox","id":"sh/r6h4765k","slide":13,"text":"Review cover","textPreview":"Review cover","textChars":12,"textLines":1,"bbox":[84,416,320,20]}
+{"kind":"shape","id":"sh/gvq54v6h","slide":13,"bbox":[452,198,360,250]}
+{"kind":"shape","id":"sh/1wjmd0nm","slide":13,"bbox":[472,220,92,28]}
+{"kind":"textbox","id":"sh/et8n2lob","slide":13,"text":"HEALTH","textPreview":"HEALTH","textChars":6,"textLines":1,"bbox":[480,225,76,18]}
+{"kind":"textbox","id":"sh/fuh4bq5w","slide":13,"text":"Family protection gap","textPreview":"Family protection gap","textChars":21,"textLines":1,"bbox":[472,266,320,52]}
+{"kind":"textbox","id":"sh/oza58vmd","slide":13,"text":"Salary customer with dependants and low declared base cover.","textPreview":"Salary customer with dependants and low declared base cover.","textChars":60,"textLines":1,"bbox":[472,332,320,58]}
+{"kind":"shape","id":"sh/p0j6h0ny","slide":13,"bbox":[472,404,320,1]}
+{"kind":"textbox","id":"sh/xgfml0f2","slide":13,"text":"Check health gap","textPreview":"Check health gap","textChars":16,"textLines":1,"bbox":[472,416,320,20]}
+{"kind":"shape","id":"sh/cf65sveh","slide":13,"bbox":[840,198,360,250]}
+{"kind":"shape","id":"sh/bex4jqxw","slide":13,"bbox":[860,220,92,28]}
+{"kind":"textbox","id":"sh/adonqlwb","slide":13,"text":"TRAVEL","textPreview":"TRAVEL","textChars":6,"textLines":1,"bbox":[868,225,76,18]}
+{"kind":"textbox","id":"sh/lkzmp0fy","slide":13,"text":"Upcoming trip","textPreview":"Upcoming trip","textChars":13,"textLines":1,"bbox":[860,266,320,52]}
+{"kind":"textbox","id":"sh/kjq5wvet","slide":13,"text":"Forex, travel card, or ticket-related intent with explicit consent.","textPreview":"Forex, travel card, or ticket-related intent with explicit consent.","textChars":67,"textLines":1,"bbox":[860,332,320,58]}
+{"kind":"shape","id":"sh/zix4nax8","slide":13,"bbox":[860,404,320,1]}
+{"kind":"textbox","id":"sh/yhonu5wn","slide":13,"text":"Offer trip cover","textPreview":"Offer trip cover","textChars":16,"textLines":1,"bbox":[860,416,320,20]}
+{"kind":"textbox","id":"sh/1ovmdgfu","slide":13,"text":"90-day pilot design","textPreview":"90-day pilot design","textChars":19,"textLines":1,"bbox":[64,486,240,28]}
+{"kind":"shape","id":"sh/0nmlkby9","slide":13,"bbox":[64,528,360,106]}
+{"kind":"textbox","id":"sh/qtkjuhc7","slide":13,"text":"AUDIENCE","textPreview":"AUDIENCE","textChars":8,"textLines":1,"bbox":[80,542,90,18]}
+{"kind":"textbox","id":"sh/rutknmds","slide":13,"text":"100K eligible retail customers","textPreview":"100K eligible retail customers","textChars":30,"textLines":1,"bbox":[80,568,328,23]}
+{"kind":"textbox","id":"sh/sv21wrud","slide":13,"text":"Bengaluru + Mumbai; motor renewal window","textPreview":"Bengaluru + Mumbai; motor renewal window","textChars":40,"textLines":1,"bbox":[80,598,328,28]}
+{"kind":"shape","id":"sh/dwb2pcvy","slide":13,"bbox":[452,528,360,106]}
+{"kind":"textbox","id":"sh/exkjyhc3","slide":13,"text":"CHANNELS","textPreview":"CHANNELS","textChars":8,"textLines":1,"bbox":[468,542,90,18]}
+{"kind":"textbox","id":"sh/fitkrmdo","slide":13,"text":"INDIE home, inbox, RM assist","textPreview":"INDIE home, inbox, RM assist","textChars":28,"textLines":1,"bbox":[468,568,328,23]}
+{"kind":"textbox","id":"sh/0jm10ru9","slide":13,"text":"No unsolicited cold-call dependency","textPreview":"No unsolicited cold-call dependency","textChars":35,"textLines":1,"bbox":[468,598,328,28]}
+{"kind":"shape","id":"sh/1kv2twvu","slide":13,"bbox":[840,528,360,106]}
+{"kind":"textbox","id":"sh/u10jmxwz","slide":13,"text":"TEST","textPreview":"TEST","textChars":4,"textLines":1,"bbox":[856,542,90,18]}
+{"kind":"textbox","id":"sh/vm90f2dk","slide":13,"text":"Personalised vs generic vs holdout","textPreview":"Personalised vs generic vs holdout","textChars":34,"textLines":1,"bbox":[856,568,328,23]}
+{"kind":"textbox","id":"sh/b6h83u1w","slide":13,"text":"Measure incremental quote, renewal, and trust","textPreview":"Measure incremental quote, renewal, and trust","textChars":45,"textLines":1,"bbox":[856,598,328,28]}
+{"kind":"textbox","id":"sh/a58rupkr","slide":13,"text":"Pilot audience and thresholds are proposed assumptions. All targeting requires explicit purpose and consent controls.","textPreview":"Pilot audience and thresholds are proposed assumptions. All targeting requires explicit purpose and consent controls.","textChars":117,"textLines":1,"bbox":[64,673,1030,22]}
+{"kind":"notes","id":"nt/rn4sna","slide":13,"text":""}
+{"kind":"slide","id":"sl/j83c0e","slide":14,"title":"INDIE  PROTECT","textShapes":32}
+{"kind":"shape","id":"sh/byhsfexk","slide":14,"bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/czqt8jyp","slide":14,"text":"INDIE  PROTECT","textPreview":"INDIE  PROTECT","textChars":14,"textLines":1,"bbox":[64,28,220,24]}
+{"kind":"textbox","id":"sh/d0zah4fa","slide":14,"text":"ROADMAP","textPreview":"ROADMAP","textChars":7,"textLines":1,"bbox":[968,30,220,20]}
+{"kind":"textbox","id":"sh/y18ba9gv","slide":14,"text":"Prove motor and health value before scaling the ecosystem","textPreview":"Prove motor and health value before scaling the ecosystem","textChars":57,"textLines":1,"bbox":[64,72,1080,52]}
+{"kind":"textbox","id":"sh/z2hsjexg","slide":14,"text":"Sequence integrations by customer value and operational confidence, not by category count.","textPreview":"Sequence integrations by customer value and operational confidence, not by category count.","textChars":90,"textLines":1,"bbox":[64,126,1080,44]}
+{"kind":"textbox","id":"sh/03qtcjy1","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1172,674,44,22]}
+{"kind":"shape","id":"sh/lozalofm","slide":14,"bbox":[64,208,270,326]}
+{"kind":"shape","id":"sh/e54repgr","slide":14,"bbox":[64,208,270,12]}
+{"kind":"textbox","id":"sh/f6xs7uxc","slide":14,"text":"0-3 MONTHS","textPreview":"0-3 MONTHS","textChars":10,"textLines":1,"bbox":[82,244,230,20]}
+{"kind":"textbox","id":"sh/ryxsrq5k","slide":14,"text":"Foundation","textPreview":"Foundation","textChars":10,"textLines":1,"bbox":[82,280,230,34]}
+{"kind":"shape","id":"sh/qxori5oz","slide":14,"bbox":[84,344,9,9]}
+{"kind":"textbox","id":"sh/d0zat0nq","slide":14,"text":"Policy vault + import","textPreview":"Policy vault + import","textChars":21,"textLines":1,"bbox":[104,336,206,34]}
+{"kind":"shape","id":"sh/szq9kv65","slide":14,"bbox":[84,398,9,9]}
+{"kind":"textbox","id":"sh/3axsnq5o","slide":14,"text":"Consent and profile layer","textPreview":"Consent and profile layer","textChars":25,"textLines":1,"bbox":[104,390,206,34]}
+{"kind":"shape","id":"sh/i9orelo3","slide":14,"bbox":[84,452,9,9]}
+{"kind":"textbox","id":"sh/5wfap0ne","slide":14,"text":"Motor renewal pilot","textPreview":"Motor renewal pilot","textChars":19,"textLines":1,"bbox":[104,444,206,34]}
+{"kind":"shape","id":"sh/4b69gv6t","slide":14,"bbox":[352,208,270,326]}
+{"kind":"shape","id":"sh/v6d8j65c","slide":14,"bbox":[352,208,270,12]}
+{"kind":"textbox","id":"sh/u54ra1or","slide":14,"text":"3-6 MONTHS","textPreview":"3-6 MONTHS","textChars":10,"textLines":1,"bbox":[370,244,230,20]}
+{"kind":"textbox","id":"sh/y14bm18z","slide":14,"text":"MVP launch","textPreview":"MVP launch","textChars":10,"textLines":1,"bbox":[370,280,230,34]}
+{"kind":"shape","id":"sh/j2dsv6p4","slide":14,"bbox":[372,344,9,9]}
+{"kind":"textbox","id":"sh/k3mtobqp","slide":14,"text":"Motor + health discovery","textPreview":"Motor + health discovery","textChars":24,"textLines":1,"bbox":[392,336,206,34]}
+{"kind":"shape","id":"sh/l4vaxg7a","slide":14,"bbox":[372,398,9,9]}
+{"kind":"textbox","id":"sh/654bql8v","slide":14,"text":"Compare and purchase","textPreview":"Compare and purchase","textChars":20,"textLines":1,"bbox":[392,390,206,34]}
+{"kind":"shape","id":"sh/76dszqpg","slide":14,"bbox":[372,452,9,9]}
+{"kind":"textbox","id":"sh/87mtsvq1","slide":14,"text":"Guided claim tracking","textPreview":"Guided claim tracking","textChars":21,"textLines":1,"bbox":[392,444,206,34]}
+{"kind":"shape","id":"sh/t8fa1g7m","slide":14,"bbox":[640,208,270,326]}
+{"kind":"shape","id":"sh/u9obul8r","slide":14,"bbox":[640,208,270,12]}
+{"kind":"textbox","id":"sh/vuxs3qpc","slide":14,"text":"6-12 MONTHS","textPreview":"6-12 MONTHS","textChars":11,"textLines":1,"bbox":[658,244,230,20]}
+{"kind":"textbox","id":"sh/5ozetkru","slide":14,"text":"Value ecosystem","textPreview":"Value ecosystem","textChars":15,"textLines":1,"bbox":[658,280,230,34]}
+{"kind":"shape","id":"sh/43qdkza9","slide":14,"bbox":[660,344,9,9]}
+{"kind":"textbox","id":"sh/32hcru9o","slide":14,"text":"Roadside + telemedicine","textPreview":"Roadside + telemedicine","textChars":23,"textLines":1,"bbox":[680,336,206,34]}
+{"kind":"shape","id":"sh/i18vips3","slide":14,"bbox":[660,398,9,9]}
+{"kind":"textbox","id":"sh/dsjex4rq","slide":14,"text":"Protect AI explanations","textPreview":"Protect AI explanations","textChars":23,"textLines":1,"bbox":[680,390,206,34]}
+{"kind":"shape","id":"sh/sradoza5","slide":14,"bbox":[660,452,9,9]}
+{"kind":"textbox","id":"sh/rqhwvu9k","slide":14,"text":"Partner service SLAs","textPreview":"Partner service SLAs","textChars":20,"textLines":1,"bbox":[680,444,206,34]}
+{"kind":"shape","id":"sh/qp8vmpsz","slide":14,"bbox":[928,208,270,326]}
+{"kind":"shape","id":"sh/1wje14rm","slide":14,"bbox":[928,208,270,12]}
+{"kind":"textbox","id":"sh/0vadsjah","slide":14,"text":"12-18 MONTHS","textPreview":"12-18 MONTHS","textChars":12,"textLines":1,"bbox":[946,244,230,20]}
+{"kind":"textbox","id":"sh/wreh03up","slide":14,"text":"Scale","textPreview":"Scale","textChars":5,"textLines":1,"bbox":[946,280,230,34]}
+{"kind":"shape","id":"sh/xsnyt8bu","slide":14,"bbox":[948,344,9,9]}
+{"kind":"textbox","id":"sh/apcfydcj","slide":14,"text":"Travel and home","textPreview":"Travel and home","textChars":15,"textLines":1,"bbox":[968,336,206,34]}
+{"kind":"shape","id":"sh/bq5grit4","slide":14,"bbox":[948,398,9,9]}
+{"kind":"textbox","id":"sh/onuxw3ud","slide":14,"text":"Open policy connectors","textPreview":"Open policy connectors","textChars":22,"textLines":1,"bbox":[968,390,206,34]}
+{"kind":"shape","id":"sh/9o3yp8by","slide":14,"bbox":[948,452,9,9]}
+{"kind":"textbox","id":"sh/2lcfutc7","slide":14,"text":"Claims automation pilots","textPreview":"Claims automation pilots","textChars":24,"textLines":1,"bbox":[968,444,206,34]}
+{"kind":"shape","id":"sh/nmlgnyts","slide":14,"bbox":[64,566,1152,74]}
+{"kind":"textbox","id":"sh/8jyh8nux","slide":14,"text":"ARCHITECTURE PRINCIPLE","textPreview":"ARCHITECTURE PRINCIPLE","textChars":22,"textLines":1,"bbox":[86,584,190,20]}
+{"kind":"textbox","id":"sh/tk7y1sb2","slide":14,"text":"Consent + policy data","textPreview":"Consent + policy data","textChars":21,"textLines":1,"bbox":[286,581,180,24]}
+{"kind":"textbox","id":"sh/3e9kr6dk","slide":14,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[474,581,24,24]}
+{"kind":"textbox","id":"sh/id0jy1wz","slide":14,"text":"Protection orchestration","textPreview":"Protection orchestration","textChars":24,"textLines":1,"bbox":[508,581,210,24]}
+{"kind":"textbox","id":"sh/5gr2twva","slide":14,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[726,581,24,24]}
+{"kind":"textbox","id":"sh/4fi10re5","slide":14,"text":"Insurers + service partners","textPreview":"Insurers + service partners","textChars":27,"textLines":1,"bbox":[760,581,250,24]}
+{"kind":"textbox","id":"sh/ritkv6dg","slide":14,"text":"Auditable events across every layer","textPreview":"Auditable events across every layer","textChars":35,"textLines":1,"bbox":[1016,581,170,36]}
+{"kind":"notes","id":"nt/j83c0e","slide":14,"text":""}
+{"kind":"slide","id":"sl/2br1nm","slide":15,"title":"INDIE  PROTECT","textShapes":22}
+{"kind":"shape","id":"sh/ml872x43","slide":15,"bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/98z6ds3u","slide":15,"text":"INDIE  PROTECT","textPreview":"INDIE  PROTECT","textChars":14,"textLines":1,"bbox":[64,28,220,24]}
+{"kind":"textbox","id":"sh/87qp4729","slide":15,"text":"DECISION","textPreview":"DECISION","textChars":8,"textLines":1,"bbox":[968,30,220,20]}
+{"kind":"textbox","id":"sh/va18f2lk","slide":15,"text":"Build trust with explainability, consent, and accountable claims","textPreview":"Build trust with explainability, consent, and accountable claims","textChars":64,"textLines":1,"bbox":[64,72,1080,52]}
+{"kind":"textbox","id":"sh/a9s76xkz","slide":15,"text":"Approve a 12-week motor + health pilot inside INDIE, with success judged on protected actions, renewal lift, and claim confidence.","textPreview":"Approve a 12-week motor + health pilot inside INDIE, with success judged on protected actions, renewal lift, and claim confidence.","textChars":130,"textLines":1,"bbox":[64,126,1080,44]}
+{"kind":"textbox","id":"sh/xcjqhc3q","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1172,674,44,22]}
+{"kind":"shape","id":"sh/wbap8725","slide":15,"bbox":[64,202,704,62]}
+{"kind":"shape","id":"sh/bexo3ilg","slide":15,"bbox":[64,202,8,62]}
+{"kind":"textbox","id":"sh/qdo7ud4v","slide":15,"text":"Mis-selling or biased recommendations","textPreview":"Mis-selling or biased recommendations","textChars":37,"textLines":1,"bbox":[90,212,260,42]}
+{"kind":"textbox","id":"sh/wjud0jad","slide":15,"text":"Rank by customer fit; disclose trade-offs and commercial relationships.","textPreview":"Rank by customer fit; disclose trade-offs and commercial relationships.","textChars":71,"textLines":1,"bbox":[362,212,382,42]}
+{"kind":"shape","id":"sh/hk3e9oby","slide":15,"bbox":[64,280,704,62]}
+{"kind":"shape","id":"sh/uhcvyts7","slide":15,"bbox":[64,280,8,62]}
+{"kind":"textbox","id":"sh/vilw7ets","slide":15,"text":"Sensitive-data overreach","textPreview":"Sensitive-data overreach","textChars":24,"textLines":1,"bbox":[90,290,260,42]}
+{"kind":"textbox","id":"sh/4nux43ap","slide":15,"text":"Purpose-specific consent, minimisation, revocation, and audit logs.","textPreview":"Purpose-specific consent, minimisation, revocation, and audit logs.","textChars":67,"textLines":1,"bbox":[362,290,382,42]}
+{"kind":"shape","id":"sh/58nex8bu","slide":15,"bbox":[64,358,704,62]}
+{"kind":"shape","id":"sh/ilcf2tsj","slide":15,"bbox":[64,358,8,62]}
+{"kind":"textbox","id":"sh/jmlwvyt4","slide":15,"text":"AI hallucination in policy advice","textPreview":"AI hallucination in policy advice","textChars":33,"textLines":1,"bbox":[90,368,260,42]}
+{"kind":"textbox","id":"sh/kradsza5","slide":15,"text":"Retrieval from approved wording, citations, guardrails, and human escalation.","textPreview":"Retrieval from approved wording, citations, guardrails, and human escalation.","textChars":77,"textLines":1,"bbox":[362,368,382,42]}
+{"kind":"shape","id":"sh/lsje14bq","slide":15,"bbox":[64,436,704,62]}
+{"kind":"shape","id":"sh/18bup03e","slide":15,"bbox":[64,436,8,62]}
+{"kind":"textbox","id":"sh/072twvm9","slide":15,"text":"Claim-status mismatch","textPreview":"Claim-status mismatch","textChars":21,"textLines":1,"bbox":[90,446,260,42]}
+{"kind":"textbox","id":"sh/z6tcnqlo","slide":15,"text":"Insurer-system source of truth, timestamps, ownership, and SLA alerts.","textPreview":"Insurer-system source of truth, timestamps, ownership, and SLA alerts.","textChars":70,"textLines":1,"bbox":[362,446,382,42]}
+{"kind":"shape","id":"sh/elkbul43","slide":15,"bbox":[64,514,704,62]}
+{"kind":"shape","id":"sh/9cvut03q","slide":15,"bbox":[64,514,8,62]}
+{"kind":"textbox","id":"sh/ob2t0f25","slide":15,"text":"Partner service failure","textPreview":"Partner service failure","textChars":23,"textLines":1,"bbox":[90,524,260,42]}
+{"kind":"textbox","id":"sh/natcralk","slide":15,"text":"Coverage map, service-level contracts, fallback providers, and incident review.","textPreview":"Coverage map, service-level contracts, fallback providers, and incident review.","textChars":79,"textLines":1,"bbox":[362,524,382,42]}
+{"kind":"shape","id":"sh/m9kby54z","slide":15,"bbox":[810,202,406,390]}
+{"kind":"shape","id":"sh/xgvuxk3m","slide":15,"bbox":[836,228,148,28]}
+{"kind":"textbox","id":"sh/wfmd4f21","slide":15,"text":"RECOMMENDATION","textPreview":"RECOMMENDATION","textChars":14,"textLines":1,"bbox":[844,233,132,18]}
+{"kind":"textbox","id":"sh/u9wz2dgn","slide":15,"text":"Launch the focused pilot","textPreview":"Launch the focused pilot","textChars":24,"textLines":1,"bbox":[836,278,330,64]}
+{"kind":"textbox","id":"sh/va50bixs","slide":15,"text":"Motor renewal + health-gap discovery\nUnified policy vault\nGuided claims + visible ownership","textPreview":"Motor renewal + health-gap discovery | Unified policy vault | Guided claims + visible ownership","textChars":91,"textLines":3,"bbox":[836,356,330,116]}
+{"kind":"shape","id":"sh/wbeh4nyd","slide":15,"bbox":[836,488,324,1]}
+{"kind":"textbox","id":"sh/hcnidsfy","slide":15,"text":"WORKING PROTOTYPE","textPreview":"WORKING PROTOTYPE","textChars":17,"textLines":1,"bbox":[836,510,170,20]}
+{"kind":"textbox","id":"sh/idwz6xgj","slide":15,"text":"Local demo: http://localhost:5173","textPreview":"Local demo: http://localhost:5173","textChars":33,"textLines":1,"bbox":[836,538,330,26]}
+{"kind":"textbox","id":"sh/je50f2x4","slide":15,"text":"Public URL to be added after deployment approval.","textPreview":"Public URL to be added after deployment approval.","textChars":49,"textLines":1,"bbox":[836,566,330,22]}
+{"kind":"textbox","id":"sh/4fe187ep","slide":15,"text":"Prototype, product assumptions, and roadmap prepared for Product Matters 6.0 capstone evaluation.","textPreview":"Prototype, product assumptions, and roadmap prepared for Product Matters 6.0 capstone evaluation.","textChars":97,"textLines":1,"bbox":[64,673,1030,22]}
+{"kind":"notes","id":"nt/2br1nm","slide":15,"text":""}

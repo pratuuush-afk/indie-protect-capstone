@@ -1,0 +1,785 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/7uh0eh",
+    "id": "7uh0eh",
+    "slide": 9,
+    "layoutId": "f0f45f11-d8ab-4c92-8ca6-8b29d707422f",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "8c3ab30f-03c4-4349-bd45-b042c5e5e51d",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F7",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "f0f45f11-d8ab-4c92-8ca6-8b29d707422f",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "8c3ab30f-03c4-4349-bd45-b042c5e5e51d",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "8c3ab30f-03c4-4349-bd45-b042c5e5e51d",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/94nu1wfy",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        12
+      ],
+      "geometry": "rect",
+      "fillColor": "#9F1D2F",
+      "lineColor": "#9F1D2F",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mhwbq1gn",
+      "id": "2",
+      "bbox": [
+        64,
+        28,
+        220,
+        24
+      ],
+      "geometry": "rect",
+      "text": "INDIE  PROTECT",
+      "textPreview": "INDIE  PROTECT",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#9F1D2F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "INDIE  PROTECT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "INDIE  PROTECT",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#9F1D2F",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INDIE  PROTECT",
+              "fontSize": 15,
+              "color": "#9F1D2F",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ni5szmx8",
+      "id": "3",
+      "bbox": [
+        968,
+        30,
+        220,
+        20
+      ],
+      "geometry": "rect",
+      "text": "PROTOTYPE",
+      "textPreview": "PROTOTYPE",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#686164",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PROTOTYPE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PROTOTYPE",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#686164",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PROTOTYPE",
+              "fontSize": 13,
+              "color": "#686164",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w7ytwbyp",
+      "id": "4",
+      "bbox": [
+        64,
+        72,
+        1080,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Comparison makes trade-offs visible before purchase",
+      "textPreview": "Comparison makes trade-offs visible before purchase",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 36,
+        "typeface": "+mn-lt",
+        "color": "#201A1C",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Comparison makes trade-offs visible before purchase"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Comparison makes trade-offs visible before purchase",
+          "resolvedTextStyle": {
+            "fontSize": 36,
+            "color": "#201A1C",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Comparison makes trade-offs visible before purchase",
+              "fontSize": 36,
+              "color": "#201A1C",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x87u5gfa",
+      "id": "5",
+      "bbox": [
+        64,
+        126,
+        1080,
+        44
+      ],
+      "geometry": "rect",
+      "text": "Customers see fit, insured value, add-ons, and exclusions in the same decision surface, then complete a simulated bank-linked checkout.",
+      "textPreview": "Customers see fit, insured value, add-ons, and exclusions in the same decision surface, then complete a simulated bank-linked checkout.",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17,
+        "typeface": "+mn-lt",
+        "color": "#686164",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Customers see fit, insured value, add-ons, and exclusions in the same decision surface, then complete a simulated bank-linked checkout."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Customers see fit, insured value, add-ons, and exclusions in the same decision surface, then complete a simulated bank-linked checkout.",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#686164",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Customers see fit, insured value, add-ons, and exclusions in the same decision surface, then complete a simulated bank-linked checkout.",
+              "fontSize": 17,
+              "color": "#686164",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a5wbu1gj",
+      "id": "6",
+      "bbox": [
+        1172,
+        674,
+        44,
+        22
+      ],
+      "geometry": "rect",
+      "text": "09",
+      "textPreview": "09",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#686164",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "09",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#686164",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "09",
+              "fontSize": 13,
+              "color": "#686164",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v65c36x4",
+      "id": "7",
+      "bbox": [
+        74,
+        190,
+        218,
+        472
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#2B2024",
+      "lineColor": "#2B2024",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/pg7i9wfm",
+      "id": "8",
+      "bbox": [
+        81,
+        197,
+        204,
+        458
+      ],
+      "geometry": "roundRect",
+      "alt": "prototype-explore.png",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 3922"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "6db0c90e-d1ca-45ef-8d6c-00fac270cc8c",
+        "contentType": "image/png",
+        "byteLength": 120606
+      }
+    },
+    {
+      "order": 9,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ofyhgreh",
+      "id": "9",
+      "bbox": [
+        342,
+        194,
+        838,
+        454
+      ],
+      "geometry": "roundRect",
+      "alt": "compare-desktop.png",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 1762"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "6342f34e-e11d-4f20-a1fc-0eb24fa3fbd6",
+        "contentType": "image/png",
+        "byteLength": 61407
+      }
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dkvudsju",
+      "id": "10",
+      "bbox": [
+        370,
+        566,
+        380,
+        60
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#DEDADD",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sjmdkn29",
+      "id": "11",
+      "bbox": [
+        390,
+        578,
+        130,
+        20
+      ],
+      "geometry": "rect",
+      "text": "Why this matters",
+      "textPreview": "Why this matters",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#9F1D2F",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Why this matters"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Why this matters",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#9F1D2F",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Why this matters",
+              "fontSize": 14,
+              "color": "#9F1D2F",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ridcbi1o",
+      "id": "12",
+      "bbox": [
+        522,
+        574,
+        210,
+        40
+      ],
+      "geometry": "rect",
+      "text": "Rs. 179/month makes the upgrade cost tangible.",
+      "textPreview": "Rs. 179/month makes the upgrade cost tangible.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#201A1C",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Rs. 179/month makes the"
+          },
+          {
+            "index": 2,
+            "text": "upgrade cost tangible."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Rs. 179/month makes the upgrade cost tangible.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#201A1C",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Rs. 179/month makes the upgrade cost tangible.",
+              "fontSize": 14,
+              "color": "#201A1C",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qhkvidk3",
+      "id": "13",
+      "bbox": [
+        776,
+        566,
+        376,
+        60
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#E8F5F1",
+      "lineColor": "#E8F5F1",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1ovuhsjq",
+      "id": "14",
+      "bbox": [
+        794,
+        578,
+        112,
+        20
+      ],
+      "geometry": "rect",
+      "text": "Trust pattern",
+      "textPreview": "Trust pattern",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#167968",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Trust pattern"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Trust pattern",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#167968",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Trust pattern",
+              "fontSize": 14,
+              "color": "#167968",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0nmdo72l",
+      "id": "15",
+      "bbox": [
+        908,
+        574,
+        222,
+        40
+      ],
+      "geometry": "rect",
+      "text": "Coverage and exclusions stay visible before confirmation.",
+      "textPreview": "Coverage and exclusions stay visible before confirmation.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#201A1C",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Coverage and exclusions stay"
+          },
+          {
+            "index": 2,
+            "text": "visible before confirmation."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Coverage and exclusions stay visible before confirmation.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#201A1C",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Coverage and exclusions stay visible before confirmation.",
+              "fontSize": 14,
+              "color": "#201A1C",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

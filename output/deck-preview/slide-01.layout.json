@@ -1,0 +1,556 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/xzu6u0",
+    "id": "xzu6u0",
+    "slide": 1,
+    "layoutId": "f0f45f11-d8ab-4c92-8ca6-8b29d707422f",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "8c3ab30f-03c4-4349-bd45-b042c5e5e51d",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#711523",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "f0f45f11-d8ab-4c92-8ca6-8b29d707422f",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "8c3ab30f-03c4-4349-bd45-b042c5e5e51d",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "8c3ab30f-03c4-4349-bd45-b042c5e5e51d",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/et03ads7",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        546,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#711523",
+      "lineColor": "#711523",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/cj690nat",
+      "id": "2",
+      "bbox": [
+        546,
+        0,
+        734,
+        720
+      ],
+      "geometry": "rect",
+      "alt": "protection-hero.png",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "dcbe3ec8-c692-49b1-af10-df8d7f31f8de",
+        "contentType": "image/png",
+        "byteLength": 1987299
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gvilc3ad",
+      "id": "3",
+      "bbox": [
+        500,
+        0,
+        260,
+        720
+      ],
+      "geometry": "rect",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nyt47i9o",
+      "id": "4",
+      "bbox": [
+        66,
+        58,
+        440,
+        26
+      ],
+      "geometry": "rect",
+      "text": "PRODUCT MATTERS 6.0  |  CAPSTONE",
+      "textPreview": "PRODUCT MATTERS 6.0  |  CAPSTONE",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#F0BBC4",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PRODUCT MATTERS 6.0  |  CAPSTONE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PRODUCT MATTERS 6.0  |  CAPSTONE",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#F0BBC4",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PRODUCT MATTERS 6.0  |  CAPSTONE",
+              "fontSize": 15,
+              "color": "#F0BBC4",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2xk3edsj",
+      "id": "5",
+      "bbox": [
+        66,
+        126,
+        430,
+        150
+      ],
+      "geometry": "rect",
+      "text": "INDIE\nProtect",
+      "textPreview": "INDIE | Protect",
+      "resolvedFontSize": 58,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 58,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "INDIE"
+          },
+          {
+            "index": 2,
+            "text": "Protect"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "INDIE",
+          "resolvedTextStyle": {
+            "fontSize": 58,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INDIE",
+              "fontSize": 58,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Protect",
+          "resolvedTextStyle": {
+            "fontSize": 58,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Protect",
+              "fontSize": 58,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0bm9sru",
+      "id": "6",
+      "bbox": [
+        66,
+        302,
+        420,
+        96
+      ],
+      "geometry": "rect",
+      "text": "A bank-native protection cockpit for the complete insurance lifecycle",
+      "textPreview": "A bank-native protection cockpit for the complete insurance lifecycle",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "A bank-native protection cockpit for the"
+          },
+          {
+            "index": 2,
+            "text": "complete insurance lifecycle"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "A bank-native protection cockpit for the complete insurance lifecycle",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "A bank-native protection cockpit for the complete insurance lifecycle",
+              "fontSize": 24,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oz2lgna9",
+      "id": "7",
+      "bbox": [
+        66,
+        418,
+        410,
+        88
+      ],
+      "geometry": "rect",
+      "text": "Discover clearly. Manage every policy. Act with confidence when something goes wrong.",
+      "textPreview": "Discover clearly. Manage every policy. Act with confidence when something goes wrong.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#F4DDE1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Discover clearly. Manage every policy. Act with"
+          },
+          {
+            "index": 2,
+            "text": "confidence when something goes wrong."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Discover clearly. Manage every policy. Act with confidence when something goes wrong.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#F4DDE1",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Discover clearly. Manage every policy. Act with confidence when something goes wrong.",
+              "fontSize": 18,
+              "color": "#F4DDE1",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j2p4vetk",
+      "id": "8",
+      "bbox": [
+        66,
+        560,
+        360,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D77A89",
+      "lineColor": "#D77A89",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i1g32tsz",
+      "id": "9",
+      "bbox": [
+        66,
+        580,
+        430,
+        28
+      ],
+      "geometry": "rect",
+      "text": "IndusInd General Insurance  x  E-Cell IIT Guwahati",
+      "textPreview": "IndusInd General Insurance  x  E-Cell IIT Guwahati",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "IndusInd General Insurance  x  E-Cell IIT Guwahati"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "IndusInd General Insurance  x  E-Cell IIT Guwahati",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "IndusInd General Insurance  x  E-Cell IIT Guwahati",
+              "fontSize": 15,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cr21g7uh",
+      "id": "10",
+      "bbox": [
+        66,
+        616,
+        360,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Capstone submission  |  July 2026",
+      "textPreview": "Capstone submission  |  July 2026",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#F0BBC4",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Capstone submission  |  July 2026"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Capstone submission  |  July 2026",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#F0BBC4",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Capstone submission  |  July 2026",
+              "fontSize": 14,
+              "color": "#F0BBC4",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}
